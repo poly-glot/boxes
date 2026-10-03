@@ -82,6 +82,8 @@ add_filter( 'run_wptexturize', '__return_false' );
 
 add_filter( 'document_title_separator', fn (): string => '|' );
 
+add_filter( 'script_module_loader_src', 'wp_make_link_relative' );
+
 add_filter( 'image_editor_output_format', fn ( array $formats ): array => $formats + array( 'image/jpeg' => 'image/webp' ) );
 
 add_filter( 'query_vars', fn ( array $vars ): array => array_merge( $vars, array( BOXES_SEARCH_INDEX_VAR ) ) );
