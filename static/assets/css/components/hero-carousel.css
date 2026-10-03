@@ -1,0 +1,149 @@
+.hero-carousel {
+    background: var(--color-surface);
+    padding-block: var(--space-5) var(--space-3);
+}
+
+.hero-carousel__inner {
+    display: grid;
+    gap: var(--space-2);
+}
+
+.hero-carousel__track {
+    display: grid;
+    gap: var(--space-4);
+    grid-auto-columns: 100%;
+    grid-auto-flow: column;
+    list-style: none;
+    margin: 0;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    padding: 0;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+}
+
+.hero-carousel__track::-webkit-scrollbar {
+    display: none;
+}
+
+.hero-carousel__slide {
+    background: var(--color-white);
+    display: grid;
+    scroll-snap-align: start;
+}
+
+.hero-carousel__picture {
+    display: contents;
+}
+
+.hero-carousel__image {
+    aspect-ratio: 1920 / 800;
+    background: var(--color-lavender);
+    object-fit: cover;
+    width: 100%;
+}
+
+.hero-carousel__content {
+    align-content: center;
+    display: grid;
+    gap: var(--space-3);
+    justify-items: start;
+    padding: var(--space-4) var(--space-4) var(--space-5);
+}
+
+.hero-carousel__title {
+    color: var(--color-indigo);
+    font-size: var(--text-hero);
+    line-height: 1.15;
+}
+
+.hero-carousel__lead {
+    font-size: var(--text-md);
+    max-width: 30rem;
+}
+
+@media (min-width: 48rem) {
+    .hero-carousel__slide {
+        grid-template-areas: "slide";
+    }
+
+    .hero-carousel__image,
+    .hero-carousel__content {
+        grid-area: slide;
+    }
+
+    .hero-carousel__content {
+        align-self: center;
+        background: var(--color-white);
+        box-shadow: var(--shadow-panel);
+        margin-left: var(--space-6);
+        max-width: 30rem;
+        padding: var(--space-5) var(--space-6);
+    }
+}
+
+.hero-carousel__controls {
+    align-items: center;
+    display: flex;
+    gap: var(--space-2);
+    justify-content: center;
+}
+
+.hero-carousel__arrow {
+    align-items: center;
+    background: var(--color-white);
+    border: 1px solid var(--color-indigo);
+    border-radius: 50%;
+    color: var(--color-indigo);
+    cursor: pointer;
+    display: inline-flex;
+    height: 2.5rem;
+    justify-content: center;
+    padding: 0;
+    width: 2.5rem;
+}
+
+.hero-carousel__arrow:hover {
+    background: var(--color-indigo);
+    color: var(--color-white);
+}
+
+.hero-carousel__arrow[aria-disabled="true"] {
+    cursor: default;
+    opacity: 0.4;
+}
+
+.hero-carousel__arrow[aria-disabled="true"]:hover {
+    background: var(--color-white);
+    color: var(--color-indigo);
+}
+
+.hero-carousel__dots {
+    display: flex;
+    gap: var(--space-1);
+    list-style: none;
+    padding: 0;
+}
+
+.hero-carousel__dot {
+    color: var(--color-indigo);
+    display: block;
+    height: 1.5rem;
+    position: relative;
+    width: 1.5rem;
+}
+
+.hero-carousel__dot::before {
+    border: 2px solid currentColor;
+    border-radius: 50%;
+    content: "";
+    height: 0.75rem;
+    inset: 0;
+    margin: auto;
+    position: absolute;
+    width: 0.75rem;
+}
+
+.hero-carousel__dot[aria-current="true"]::before {
+    background: currentColor;
+}

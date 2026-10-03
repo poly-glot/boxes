@@ -1,0 +1,1081 @@
+{
+  "categories": [
+    {
+      "slug": "boxes-and-cartons",
+      "name": "Boxes & cartons",
+      "intro": "Plain corrugated boxes for posting, shipping and storing. Single-wall cartons suit everyday parcels up to around 15 kg, double-wall cartons take heavier and more fragile loads, and crash-lock mailers fold up in seconds without tape. Every box here is made from kraft board with recycled content and goes straight into kerbside cardboard recycling once it has done its job.",
+      "description": "Single-wall and double-wall cartons, crash-lock mailer boxes and archive boxes in packs, priced ex VAT with bulk discounts and next-day dispatch."
+    },
+    {
+      "slug": "mailing-bags-and-envelopes",
+      "name": "Mailing bags & envelopes",
+      "intro": "Lightweight ways to post clothing, books, prints and paperwork. Choose recycled polythene bags for soft goods that need to stay dry, padded and honeycomb paper mailers for small items that need a little cushioning, or board-backed envelopes for anything that must arrive flat. Each one closes with a peel-and-seal strip, so there is no tape to find at the packing bench.",
+      "description": "Recycled mailing bags, padded kraft mailers, honeycomb paper mailers and board-backed envelopes in trade packs with peel-and-seal closures."
+    },
+    {
+      "slug": "paper-bags",
+      "name": "Paper bags",
+      "intro": "Counter bags and grocery bags for shops, delis, bakeries and market stalls. Striped and white sulphite bags hold sweets, pastries and small gifts; flat-bottom kraft bags stand up on the counter for loose groceries; window-front bags let customers see the bread before they buy it. All are made from paper and can go in kerbside recycling when clean.",
+      "description": "Striped and white sulphite counter bags, flat-bottom kraft grocery bags and window-front bakery bags in trade packs, priced ex VAT."
+    },
+    {
+      "slug": "carrier-bags",
+      "name": "Carrier bags",
+      "intro": "Carrier bags for shops that want customers to leave with something sturdy. Twisted and flat-handle paper carriers suit boutiques, gift shops and takeaway counters, while cotton totes and woven carriers are made to be used again and again. Paper carriers are recyclable at the kerbside; the reusable bags are built to last long enough that recycling is a distant question.",
+      "description": "Twisted-handle and flat-handle paper carriers, natural cotton totes and reusable woven carriers in trade packs with bulk pricing."
+    },
+    {
+      "slug": "food-packaging",
+      "name": "Food packaging",
+      "intro": "Takeaway packaging for cafés, bakeries, delis and street-food traders. Kraft food boxes, double-wall hot cups, bagasse clamshells and greaseproof sheets are all suitable for direct food contact and sized for the dishes small kitchens actually serve. Product pages explain how each item can be disposed of, because a compostable clamshell and a paper cup need different bins.",
+      "description": "Kraft food boxes, double-wall hot cups, bagasse clamshells and greaseproof sheets for cafés and takeaways, in trade packs with bulk discounts."
+    },
+    {
+      "slug": "gift-boxes",
+      "name": "Gift & presentation boxes",
+      "intro": "Boxes that make a small product feel like a present. Magnetic-closure and rigid two-piece boxes suit candles, skincare and hampers; velvet-lined ring boxes hold jewellery securely; kraft pillow boxes fold flat and pop into shape for soaps, favours and sample sizes. Plain finishes mean they work with your own labels, ribbon or tissue.",
+      "description": "Magnetic gift boxes, rigid two-piece boxes, velvet-lined ring boxes and kraft pillow boxes for makers and gift shops, priced per pack ex VAT."
+    },
+    {
+      "slug": "labels-and-tags",
+      "name": "Labels & tags",
+      "intro": "The small finishing pieces that every order needs. Thermal shipping labels run through direct thermal printers with no ink or ribbon, kraft swing tags and coloured tie-on tags carry prices and care notes, and round kraft seal stickers close tissue paper and bags neatly. Plain stock, ready for your own stamp, pen or printer.",
+      "description": "Thermal shipping labels, kraft swing tags, kraft seal stickers and coloured tie-on tags in rolls and packs, with bulk discounts ex VAT."
+    },
+    {
+      "slug": "tape-and-protective",
+      "name": "Tape, wrap & void fill",
+      "intro": "Everything that keeps the contents of a box still and the box itself shut. Kraft paper tape seals cartons and goes into recycling with them, bubble wrap and honeycomb kraft wrap protect fragile pieces, and stretch film holds pallet loads together for collection. Choose paper-based options where you can, and plastic where moisture or weight makes it the better tool.",
+      "description": "Kraft paper tape, bubble wrap, honeycomb kraft wrap and pallet stretch film for packing benches and warehouses, priced ex VAT."
+    }
+  ],
+  "collections": [
+    {
+      "slug": "new-arrivals",
+      "name": "New arrivals",
+      "intro": "The latest additions to the range, most of them plastic-free or made with recycled content. Paper-padded mailers, honeycomb wrap, kraft tape and compostable food packaging have joined the shelves this season, alongside a few small pieces that make a parcel look finished.",
+      "description": "New packaging at Boxes: honeycomb mailers, kraft paper tape, recycled mailing bags, bagasse clamshells and more, priced per pack ex VAT.",
+      "products": [
+        "honeycomb-paper-mailer",
+        "honeycomb-kraft-wrap",
+        "kraft-paper-tape",
+        "recycled-grey-mailing-bag",
+        "bagasse-clamshell-9in",
+        "round-kraft-seal-stickers",
+        "kraft-pillow-box",
+        "natural-cotton-tote"
+      ]
+    },
+    {
+      "slug": "best-sellers",
+      "name": "Best sellers",
+      "intro": "The packaging our customers reorder most. Postal cartons, mailer boxes, padded mailers, shipping labels, tape and bubble wrap: the staples that keep a packing bench running from one week to the next.",
+      "description": "Our most reordered packaging: postal cartons, crash-lock mailers, padded mailers, thermal labels, tape and bubble wrap, with bulk discounts ex VAT.",
+      "products": [
+        "single-wall-postal-carton",
+        "crash-lock-mailer-box",
+        "padded-kraft-mailer",
+        "thermal-shipping-labels",
+        "double-wall-shipping-carton",
+        "kraft-paper-tape",
+        "bubble-wrap-roll",
+        "striped-paper-counter-bag"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "slug": "single-wall-postal-carton",
+      "name": "Single-wall postal carton 305 × 229 × 152 mm",
+      "sku": "BX-SW305",
+      "category": "boxes-and-cartons",
+      "pack": "Pack of 25",
+      "price": 14.95,
+      "tiers": [{ "min": 1, "price": 14.95 }, { "min": 5, "price": 13.45 }, { "min": 10, "price": 11.95 }],
+      "stock": "in-stock",
+      "stockNote": "86 packs ready to dispatch",
+      "summary": "An everyday brown postal carton for parcels up to 15 kg. Fits within standard parcel size limits and folds flat until you need it.",
+      "description": [
+        "This is the box most of our customers start with. It is a single-wall corrugated carton in brown kraft, with four flaps top and bottom that meet in the middle, so it seals neatly with one strip of tape across each side.",
+        "At 305 × 229 × 152 mm inside, it takes a pair of boots, three or four hardback books, a small homeware item with wrap around it, or a mixed order of smaller pieces. It is sized to sit within the medium parcel limits most couriers use, which keeps postage costs predictable.",
+        "Cartons arrive flat in bundles of 25 and take a few seconds to fold up. When the box reaches your customer it can be reused or flattened for kerbside cardboard recycling."
+      ],
+      "specification": [
+        ["Internal dimensions", "305 × 229 × 152 mm"],
+        ["Board", "Single-wall B-flute corrugated, 3 mm"],
+        ["Colour", "Brown kraft"],
+        ["Maximum load", "15 kg"],
+        ["Pack quantity", "25"],
+        ["Recycled content", "Up to 80%"],
+        ["Recyclable", "Yes, kerbside"]
+      ],
+      "image": {
+        "alt": "A brown single-wall cardboard carton, flaps open, with two flat cartons leaning behind it",
+        "prompt": "One assembled brown kraft single-wall corrugated cardboard box with its top flaps open, two flat unfolded cartons leaning behind it, three-quarter view from slightly above, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["double-wall-shipping-carton", "kraft-paper-tape", "bubble-wrap-roll"]
+    },
+    {
+      "slug": "double-wall-shipping-carton",
+      "name": "Double-wall shipping carton 457 × 305 × 305 mm",
+      "sku": "BX-DW457",
+      "category": "boxes-and-cartons",
+      "pack": "Pack of 15",
+      "price": 24.50,
+      "tiers": [{ "min": 1, "price": 24.50 }, { "min": 5, "price": 22.25 }, { "min": 10, "price": 19.95 }],
+      "stock": "in-stock",
+      "stockNote": "54 packs ready to dispatch",
+      "summary": "A heavy-duty double-wall carton for loads up to 30 kg, house moves and fragile goods that need extra crush strength.",
+      "description": [
+        "Two layers of corrugated board give this carton roughly twice the stacking strength of a single-wall box. It is the one to choose when a parcel is heavy, travels on a pallet, or holds something that would not survive a corner being crushed.",
+        "Inside it measures 457 × 305 × 305 mm, which fits a small kitchen appliance, a set of plates wrapped individually, a box file of stock or a run of folded textiles. It works well for business moves too, because it stacks five high without bowing.",
+        "Seal it with an H pattern of tape across the centre seam and both edges. The board is all paper, so it goes into kerbside cardboard recycling once flattened."
+      ],
+      "specification": [
+        ["Internal dimensions", "457 × 305 × 305 mm"],
+        ["Board", "Double-wall BC-flute corrugated, 7 mm"],
+        ["Colour", "Brown kraft"],
+        ["Maximum load", "30 kg"],
+        ["Pack quantity", "15"],
+        ["Recycled content", "Up to 75%"],
+        ["Recyclable", "Yes, kerbside"]
+      ],
+      "image": {
+        "alt": "A large brown double-wall cardboard carton, closed, with its thick corrugated edge visible",
+        "prompt": "One large closed brown kraft double-wall corrugated cardboard shipping box, flaps closed but not taped, thick corrugated board edge visible at the corner, three-quarter view at eye level, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["single-wall-postal-carton", "pallet-stretch-film", "kraft-paper-tape"]
+    },
+    {
+      "slug": "crash-lock-mailer-box",
+      "name": "Crash-lock mailer box 220 × 160 × 80 mm",
+      "sku": "BX-CL220",
+      "category": "boxes-and-cartons",
+      "pack": "Pack of 50",
+      "price": 29.50,
+      "tiers": [{ "min": 1, "price": 29.50 }, { "min": 4, "price": 27.25 }, { "min": 12, "price": 24.50 }],
+      "stock": "in-stock",
+      "stockNote": "112 packs ready to dispatch",
+      "summary": "A kraft mailer box with a crash-lock base that pops into shape in seconds. Fits through most letterboxes as a small parcel.",
+      "description": [
+        "The crash-lock base is pre-glued, so you push the box open and the bottom locks itself. The lid tucks in with two side flaps, which means many orders can go out with no tape at all, and a peel-and-seal strip is there if you want the parcel to be tamper-evident.",
+        "At 220 × 160 × 80 mm inside, it suits candles, cosmetics, small books, socks, jewellery in a pouch and subscription boxes. The clean kraft outer takes a sticker or stamp well, and it looks tidy enough to open as the presentation box itself.",
+        "Made from E-flute corrugated board, it is light enough to keep postage low and recyclable at the kerbside, including the tear strip."
+      ],
+      "specification": [
+        ["Internal dimensions", "220 × 160 × 80 mm"],
+        ["Board", "E-flute corrugated, 1.5 mm"],
+        ["Colour", "Brown kraft outside, white inside"],
+        ["Closure", "Tuck-in lid with peel-and-seal strip"],
+        ["Maximum load", "3 kg"],
+        ["Pack quantity", "50"],
+        ["Recycled content", "Up to 70%"],
+        ["Recyclable", "Yes, kerbside"]
+      ],
+      "image": {
+        "alt": "A brown kraft mailer box with the lid open, showing a white interior, beside a closed one",
+        "prompt": "Two small brown kraft corrugated mailer boxes, one with the hinged lid open showing a plain white interior, one closed beside it, three-quarter view from above, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["honeycomb-kraft-wrap", "round-kraft-seal-stickers", "thermal-shipping-labels"]
+    },
+    {
+      "slug": "archive-storage-box",
+      "name": "Archive storage box with lid",
+      "sku": "BX-AR400",
+      "category": "boxes-and-cartons",
+      "pack": "Pack of 10",
+      "price": 18.90,
+      "tiers": [{ "min": 1, "price": 18.90 }, { "min": 5, "price": 17.25 }, { "min": 10, "price": 15.50 }],
+      "stock": "low-stock",
+      "stockNote": "Only 9 packs left",
+      "summary": "A sturdy lidded box for files, records and stockroom overflow. Holds A4 lever-arch files upright and stacks without crushing.",
+      "description": [
+        "Offices keep paperwork for years, and this is the box to keep it in. It has a separate lid that sits over the base, hand holes on both ends and a writable panel on the front for a marker pen.",
+        "Inside it measures 400 × 320 × 280 mm, enough for five lever-arch files standing upright or around 2,500 sheets of loose A4. Shops use it for seasonal stock, and makers use it to keep finished pieces dust-free on shelving.",
+        "The box folds together without tape or glue in under a minute. The double-thickness base takes the weight of a full load of paper, and the whole box is recyclable at the kerbside when it is finally retired."
+      ],
+      "specification": [
+        ["Internal dimensions", "400 × 320 × 280 mm"],
+        ["Board", "Single-wall B-flute corrugated, 3 mm"],
+        ["Colour", "Brown kraft"],
+        ["Maximum load", "15 kg"],
+        ["Pack quantity", "10 boxes with lids"],
+        ["Recycled content", "Up to 80%"],
+        ["Recyclable", "Yes, kerbside"]
+      ],
+      "image": {
+        "alt": "A brown cardboard archive box with its lid lifted and leaning against the side, showing hand holes",
+        "prompt": "One brown kraft corrugated cardboard archive storage box with a separate lid propped against its side, hand-hole cut-outs visible on the end, empty, three-quarter view at eye level, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["single-wall-postal-carton", "coloured-tie-on-tags", "kraft-paper-tape"]
+    },
+    {
+      "slug": "padded-kraft-mailer",
+      "name": "Padded kraft mailer 220 × 330 mm",
+      "sku": "MB-PK220",
+      "category": "mailing-bags-and-envelopes",
+      "pack": "Pack of 100",
+      "price": 24.00,
+      "tiers": [{ "min": 1, "price": 24.00 }, { "min": 5, "price": 21.95 }, { "min": 10, "price": 19.75 }],
+      "stock": "in-stock",
+      "stockNote": "140 packs ready to dispatch",
+      "summary": "A brown kraft envelope padded with recycled paper fibre. Cushions books, phone cases and small gifts, with no plastic in it.",
+      "description": [
+        "This mailer has a kraft paper outer and a soft lining made from recycled paper fibre, so it protects like a padded envelope but contains no bubble film. It closes with a peel-and-seal strip along the flap.",
+        "The usable space of 220 × 330 mm takes a paperback, a phone case, a pair of earrings in a box, a wallet or a small set of prints. It travels as a large letter when the contents are slim, which saves on postage.",
+        "Because outer and padding are both paper, the whole envelope can go in kerbside paper recycling. Your customer does not need to separate anything."
+      ],
+      "specification": [
+        ["Internal dimensions", "220 × 330 mm"],
+        ["External dimensions", "240 × 350 mm"],
+        ["Material", "Kraft paper outer, recycled paper fibre padding"],
+        ["Colour", "Brown kraft"],
+        ["Closure", "Peel-and-seal strip"],
+        ["Pack quantity", "100"],
+        ["Recycled content", "Padding 100%, outer 60%"],
+        ["Recyclable", "Yes, kerbside paper"]
+      ],
+      "image": {
+        "alt": "A small fanned stack of brown padded kraft envelopes with the top one's flap open",
+        "prompt": "A small fanned stack of five plain brown kraft padded envelopes, the top one with its flap open showing a soft grey paper-fibre lining and peel-off release strip, top-down view at a slight angle, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["honeycomb-paper-mailer", "thermal-shipping-labels", "board-backed-envelope-c4"]
+    },
+    {
+      "slug": "recycled-grey-mailing-bag",
+      "name": "Recycled grey mailing bag 305 × 405 mm",
+      "sku": "MB-RG305",
+      "category": "mailing-bags-and-envelopes",
+      "pack": "Box of 500",
+      "price": 34.50,
+      "tiers": [{ "min": 1, "price": 34.50 }, { "min": 4, "price": 31.50 }, { "min": 12, "price": 28.25 }],
+      "stock": "in-stock",
+      "stockNote": "68 boxes ready to dispatch",
+      "summary": "A tough, opaque mailing bag made with recycled polythene. Keeps clothing and soft goods dry and private in transit.",
+      "description": [
+        "Paper is not always the right answer. For clothing that might meet rain on a doorstep, a polythene bag is still the most practical choice, and this one is made with a high share of recycled material. It is grey on the outside and black on the inside, so the contents cannot be seen through it.",
+        "At 305 × 405 mm plus a 40 mm flap, it takes a folded jumper, a pair of jeans, two or three T-shirts or a soft toy. The permanent adhesive strip shows if anyone has opened it, and a second strip lets your customer reuse the bag for a return.",
+        "The bag can be recycled with carrier bags at large supermarket collection points. It cannot go in most kerbside bins, so we suggest a line on your packing slip saying so."
+      ],
+      "specification": [
+        ["Dimensions", "305 × 405 mm plus 40 mm flap"],
+        ["Material", "Co-extruded polythene (LDPE)"],
+        ["Thickness", "60 µm"],
+        ["Colour", "Grey outside, black inside"],
+        ["Closure", "Permanent adhesive strip, plus return strip"],
+        ["Pack quantity", "500"],
+        ["Recycled content", "70%"],
+        ["Recyclable", "Yes, at carrier bag collection points"]
+      ],
+      "image": {
+        "alt": "Three flat grey mailing bags overlapping, one with its flap folded back to show a black interior",
+        "prompt": "Three flat plain grey polythene mailing bags overlapping slightly, one with its flap folded back to show the black interior and adhesive strip, top-down view, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["thermal-shipping-labels", "padded-kraft-mailer", "kraft-swing-tags"]
+    },
+    {
+      "slug": "board-backed-envelope-c4",
+      "name": "Board-backed envelope C4",
+      "sku": "MB-BBC4",
+      "category": "mailing-bags-and-envelopes",
+      "pack": "Pack of 100",
+      "price": 27.50,
+      "tiers": [{ "min": 1, "price": 27.50 }, { "min": 5, "price": 25.00 }, { "min": 10, "price": 22.50 }],
+      "stock": "in-stock",
+      "stockNote": "47 packs ready to dispatch",
+      "summary": "A manila envelope with a stiff board back, for prints, certificates and documents that must arrive flat and uncreased.",
+      "description": [
+        "Photographers, illustrators, printers and solicitors' offices use these to post anything that cannot be bent. A rigid greyboard panel is bonded to the back of a manila envelope, so the contents stay flat even when the envelope is handled roughly.",
+        "The C4 size takes unfolded A4 sheets, A4 prints and certificates with a little room to spare. The peel-and-seal flap closes securely and opens cleanly with a tear strip.",
+        "Both the envelope and the board are paper, so the whole thing goes into kerbside paper recycling without being taken apart."
+      ],
+      "specification": [
+        ["Internal dimensions", "229 × 324 mm (C4)"],
+        ["Fits", "Unfolded A4"],
+        ["Material", "120 gsm manila paper, 700 gsm greyboard back"],
+        ["Colour", "Manila"],
+        ["Closure", "Peel-and-seal with tear strip"],
+        ["Pack quantity", "100"],
+        ["Recyclable", "Yes, kerbside paper"]
+      ],
+      "image": {
+        "alt": "Two plain manila board-backed envelopes, one turned over to show its grey board back",
+        "prompt": "Two plain manila C4 envelopes, one face up with flap closed, one turned over showing its stiff grey board back panel, top-down view at a slight angle, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["padded-kraft-mailer", "single-wall-postal-carton", "round-kraft-seal-stickers"]
+    },
+    {
+      "slug": "honeycomb-paper-mailer",
+      "name": "Honeycomb-padded paper mailer 250 × 350 mm",
+      "sku": "MB-HP250",
+      "category": "mailing-bags-and-envelopes",
+      "pack": "Pack of 100",
+      "price": 36.00,
+      "tiers": [{ "min": 1, "price": 36.00 }, { "min": 5, "price": 32.75 }, { "min": 10, "price": 29.50 }],
+      "stock": "in-stock",
+      "stockNote": "73 packs ready to dispatch",
+      "summary": "A plastic-free mailer lined with expanded honeycomb kraft. Protects small, delicate items and recycles with the paper.",
+      "description": [
+        "Inside the kraft outer is a layer of die-cut honeycomb paper that opens into a springy cellular cushion. It gives much of the protection of a bubble-lined envelope while being made entirely from paper.",
+        "The 250 × 350 mm inside suits ceramics wrapped in tissue, small framed prints, glass jars with extra wrap, electronics accessories and hardback books. The peel-and-seal strip runs the full width of the flap, so corners do not lift.",
+        "There is no film or glue layer to separate, so the mailer goes straight into kerbside paper recycling. It is one of our most asked-about new lines."
+      ],
+      "specification": [
+        ["Internal dimensions", "250 × 350 mm"],
+        ["External dimensions", "270 × 370 mm"],
+        ["Material", "Kraft paper outer, honeycomb kraft lining"],
+        ["Colour", "Brown kraft"],
+        ["Closure", "Peel-and-seal strip"],
+        ["Pack quantity", "100"],
+        ["Recycled content", "50%"],
+        ["Recyclable", "Yes, kerbside paper"]
+      ],
+      "image": {
+        "alt": "A brown paper mailer with its flap open, showing a honeycomb-patterned paper lining inside",
+        "prompt": "One plain brown kraft paper mailer envelope lying flat with its flap open, revealing a light-brown honeycomb-patterned paper cushioning lining, a second closed mailer underneath, top-down view at a slight angle, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["honeycomb-kraft-wrap", "kraft-paper-tape", "padded-kraft-mailer"]
+    },
+    {
+      "slug": "striped-paper-counter-bag",
+      "name": "Striped paper counter bag 178 × 178 mm",
+      "sku": "PB-ST178",
+      "category": "paper-bags",
+      "pack": "Pack of 1,000",
+      "price": 18.50,
+      "tiers": [{ "min": 1, "price": 18.50 }, { "min": 5, "price": 16.75 }, { "min": 10, "price": 14.95 }],
+      "stock": "in-stock",
+      "stockNote": "96 packs ready to dispatch",
+      "summary": "A classic flat paper bag with red and white stripes, for sweets, pastries, small gifts and pick-and-mix counters.",
+      "description": [
+        "The striped counter bag is a shop counter staple. It is a flat, ungusseted paper bag with red stripes on white, a thumb notch at the opening and a folded base, and it comes in packs of 1,000 to keep near the till.",
+        "At 178 × 178 mm it holds a doughnut, two croissants, a quarter of loose sweets, a pair of earrings in a pouch or a handful of greetings cards. Bakeries also use it as a light wrap for a single slice of cake.",
+        "The paper is suitable for direct contact with dry and lightly greasy food. Clean bags can go in kerbside paper recycling."
+      ],
+      "specification": [
+        ["Dimensions", "178 × 178 mm"],
+        ["Material", "Bleached sulphite paper, 35 gsm"],
+        ["Colour", "White with red stripes"],
+        ["Food contact", "Suitable for dry and lightly greasy food"],
+        ["Pack quantity", "1,000"],
+        ["Recyclable", "Yes, kerbside paper when clean"]
+      ],
+      "image": {
+        "alt": "A short stack of flat paper bags with red and white vertical stripes, one slightly opened",
+        "prompt": "A short neat stack of flat square paper counter bags with plain red and white vertical stripes, the top bag slightly opened at the notched mouth, three-quarter view from above, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos"
+      },
+      "related": ["white-sulphite-counter-bag", "window-bakery-bag", "round-kraft-seal-stickers"]
+    },
+    {
+      "slug": "flat-bottom-kraft-bag",
+      "name": "Flat-bottom kraft grocery bag",
+      "sku": "PB-FB300",
+      "category": "paper-bags",
+      "pack": "Pack of 250",
+      "price": 29.95,
+      "tiers": [{ "min": 1, "price": 29.95 }, { "min": 4, "price": 27.25 }, { "min": 12, "price": 24.50 }],
+      "stock": "in-stock",
+      "stockNote": "58 packs ready to dispatch",
+      "summary": "A brown kraft bag with a square base that stands open on the counter. Made for loose groceries, coffee beans and refill shops.",
+      "description": [
+        "The square base means this bag stands up on its own, so customers can fill it at a refill station or you can pack it with both hands. The top edge is serrated, and it folds over neatly for a seal sticker or a peg.",
+        "It measures 180 mm wide with a 110 mm gusset and 300 mm height, which holds around 2 kg of fruit and vegetables, 1 kg of oats or pasta, or a loaf with room left over. Delis use it for cheese and cured meats wrapped in greaseproof paper first.",
+        "The kraft is unbleached and suitable for direct contact with dry food. Bags are recyclable at the kerbside and will also break down in a home compost heap."
+      ],
+      "specification": [
+        ["Dimensions", "180 × 110 × 300 mm (width × gusset × height)"],
+        ["Material", "Unbleached kraft paper, 70 gsm"],
+        ["Colour", "Brown kraft"],
+        ["Maximum load", "3 kg"],
+        ["Food contact", "Suitable for dry food"],
+        ["Pack quantity", "250"],
+        ["Recyclable", "Yes, kerbside paper"]
+      ],
+      "image": {
+        "alt": "A brown kraft paper bag with a square base standing open, with folded flat bags beside it",
+        "prompt": "One open brown kraft flat-bottom paper grocery bag standing upright with a serrated top edge, two folded flat bags lying beside it, three-quarter view at eye level, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["round-kraft-seal-stickers", "twisted-handle-kraft-carrier", "greaseproof-paper-sheets"]
+    },
+    {
+      "slug": "window-bakery-bag",
+      "name": "Window-front bakery bag",
+      "sku": "PB-WB230",
+      "category": "paper-bags",
+      "pack": "Pack of 1,000",
+      "price": 42.00,
+      "tiers": [{ "min": 1, "price": 42.00 }, { "min": 5, "price": 38.50 }, { "min": 10, "price": 34.95 }],
+      "stock": "in-stock",
+      "stockNote": "41 packs ready to dispatch",
+      "summary": "A kraft bakery bag with a clear plant-based film window, so customers can see the bread, cookies or pastries inside.",
+      "description": [
+        "A long window down the front of this gusseted kraft bag shows off what is inside. The window is a transparent cellulose film made from wood pulp rather than oil-based plastic, so the bag can be handled as a paper item.",
+        "It measures 120 mm wide with a 50 mm gusset and 230 mm height, which fits a small baguette cut in half, a sourdough roll, four cookies or a pair of brownies. Folded over and closed with a seal sticker, it makes a tidy grab-and-go bag for the counter.",
+        "The paper is suitable for direct contact with bakery goods. Clean bags can go in kerbside paper recycling, window included."
+      ],
+      "specification": [
+        ["Dimensions", "120 × 50 × 230 mm (width × gusset × height)"],
+        ["Material", "Kraft paper, 40 gsm, cellulose film window"],
+        ["Window", "60 × 150 mm"],
+        ["Colour", "Brown kraft"],
+        ["Food contact", "Suitable for bakery goods"],
+        ["Pack quantity", "1,000"],
+        ["Recyclable", "Yes, kerbside paper when clean"]
+      ],
+      "image": {
+        "alt": "A brown kraft bakery bag with a clear front window, holding two cookies, beside a flat empty bag",
+        "prompt": "One brown kraft gusseted paper bakery bag with a tall clear window on the front, two plain round cookies visible inside, top folded once, a flat empty bag lying beside it, front three-quarter view, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["striped-paper-counter-bag", "kraft-food-box-lidded", "round-kraft-seal-stickers"]
+    },
+    {
+      "slug": "white-sulphite-counter-bag",
+      "name": "White sulphite counter bag 254 × 254 mm",
+      "sku": "PB-WS254",
+      "category": "paper-bags",
+      "pack": "Pack of 1,000",
+      "price": 22.50,
+      "tiers": [{ "min": 1, "price": 22.50 }, { "min": 5, "price": 20.25 }, { "min": 10, "price": 18.25 }],
+      "stock": "in-stock",
+      "stockNote": "77 packs ready to dispatch",
+      "summary": "A plain white flat paper bag for chemists, gift shops, bakeries and hardware counters. Clean, light and good to write on.",
+      "description": [
+        "Plain white bags suit almost any counter. This is a flat, ungusseted sulphite paper bag with a thumb notch, ready to slip a purchase into at the till. The smooth white surface takes a rubber stamp or a handwritten note well.",
+        "At 254 × 254 mm it holds a sandwich, a large pastry, a paperback book, a pair of gloves or a few hardware items. Pharmacies and opticians use it for discreet, light purchases.",
+        "The paper is suitable for direct contact with dry and lightly greasy food. Clean bags can go in kerbside paper recycling."
+      ],
+      "specification": [
+        ["Dimensions", "254 × 254 mm"],
+        ["Material", "Bleached sulphite paper, 35 gsm"],
+        ["Colour", "White"],
+        ["Food contact", "Suitable for dry and lightly greasy food"],
+        ["Pack quantity", "1,000"],
+        ["Recyclable", "Yes, kerbside paper when clean"]
+      ],
+      "image": {
+        "alt": "A neat stack of plain white flat paper bags, the top one slightly open",
+        "prompt": "A neat stack of plain white flat square paper counter bags, the top bag slightly open at its notched mouth, three-quarter view from above, plain light-grey seamless studio background, soft even lighting with gentle shadows to show the white paper, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["striped-paper-counter-bag", "flat-handle-white-carrier", "kraft-swing-tags"]
+    },
+    {
+      "slug": "twisted-handle-kraft-carrier",
+      "name": "Twisted-handle kraft carrier, medium",
+      "sku": "CB-TH320",
+      "category": "carrier-bags",
+      "pack": "Pack of 250",
+      "price": 62.50,
+      "tiers": [{ "min": 1, "price": 62.50 }, { "min": 4, "price": 57.50 }, { "min": 12, "price": 52.00 }],
+      "stock": "in-stock",
+      "stockNote": "39 packs ready to dispatch",
+      "summary": "A sturdy brown paper carrier with twisted paper handles. A good all-rounder for boutiques, gift shops and takeaway counters.",
+      "description": [
+        "This is the carrier most independent shops reach for. It is made from strong brown kraft with a reinforced card base and twisted paper handles glued inside the top fold, so the handles stay put under weight.",
+        "The medium size, 320 mm wide with a 140 mm gusset and 420 mm height, holds a folded coat, two or three boxed gifts, a bottle of wine with room to spare, or a takeaway order of four meal boxes laid flat.",
+        "Everything is paper, including the handles, so the bag can be reused for weeks and then recycled at the kerbside."
+      ],
+      "specification": [
+        ["Dimensions", "320 × 140 × 420 mm (width × gusset × height)"],
+        ["Material", "Kraft paper, 90 gsm"],
+        ["Handles", "Twisted paper, glued inside"],
+        ["Colour", "Brown kraft"],
+        ["Maximum load", "8 kg"],
+        ["Pack quantity", "250"],
+        ["Recycled content", "40%"],
+        ["Recyclable", "Yes, kerbside paper"]
+      ],
+      "image": {
+        "alt": "A brown kraft paper carrier bag with twisted paper handles, standing upright",
+        "prompt": "One empty brown kraft paper carrier bag with twisted paper rope handles, standing upright and open, front three-quarter view at eye level, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["kraft-swing-tags", "flat-handle-white-carrier", "kraft-food-box-lidded"]
+    },
+    {
+      "slug": "flat-handle-white-carrier",
+      "name": "Flat-handle white paper carrier",
+      "sku": "CB-FH260",
+      "category": "carrier-bags",
+      "pack": "Pack of 250",
+      "price": 54.00,
+      "tiers": [{ "min": 1, "price": 54.00 }, { "min": 4, "price": 49.50 }, { "min": 12, "price": 44.95 }],
+      "stock": "in-stock",
+      "stockNote": "44 packs ready to dispatch",
+      "summary": "A clean white paper carrier with flat paper handles. Ideal for takeaways, pharmacies and shops that want a bright, simple bag.",
+      "description": [
+        "Flat handles are folded paper strips glued inside the top of the bag. They are quick to grab, comfortable for short carries and keep the cost down, which is why takeaways and busy counters prefer them.",
+        "At 260 mm wide with a 120 mm gusset and 350 mm height, it takes two large meal boxes side by side, a stack of folded clothes, or a few small boxed purchases. The flat base sits square on a counter so you can pack it with both hands.",
+        "The white paper takes a rubber stamp or label cleanly. The whole bag, handles included, can be recycled at the kerbside."
+      ],
+      "specification": [
+        ["Dimensions", "260 × 120 × 350 mm (width × gusset × height)"],
+        ["Material", "Bleached kraft paper, 80 gsm"],
+        ["Handles", "Flat paper, glued inside"],
+        ["Colour", "White"],
+        ["Maximum load", "6 kg"],
+        ["Pack quantity", "250"],
+        ["Recyclable", "Yes, kerbside paper"]
+      ],
+      "image": {
+        "alt": "A plain white paper carrier bag with flat paper handles, standing open",
+        "prompt": "One empty plain white paper carrier bag with flat folded paper handles, standing upright and open, front three-quarter view at eye level, plain light-grey seamless studio background, soft even lighting with gentle shadows, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["twisted-handle-kraft-carrier", "kraft-food-box-lidded", "white-sulphite-counter-bag"]
+    },
+    {
+      "slug": "natural-cotton-tote",
+      "name": "Natural cotton tote bag",
+      "sku": "CB-CT380",
+      "category": "carrier-bags",
+      "pack": "Pack of 50",
+      "price": 74.50,
+      "tiers": [{ "min": 1, "price": 74.50 }, { "min": 4, "price": 69.00 }, { "min": 12, "price": 62.50 }],
+      "stock": "in-stock",
+      "stockNote": "26 packs ready to dispatch",
+      "summary": "A plain undyed cotton tote with long handles. Sold to customers as a reusable bag, given at events, or printed with your design.",
+      "description": [
+        "A plain cotton tote is the reusable bag people actually keep. This one is woven from undyed cotton in its natural cream colour, with two long handles that go over the shoulder and stitched seams at the base.",
+        "At 380 × 420 mm it holds a weekly shop of essentials, a laptop and notebook, or a bundle of books. Shops sell them at the till, venues hand them out at events, and many customers use them as the base for custom printing.",
+        "Cotton has a higher footprint to make than paper, so a tote earns its keep through repeated use. At the end of its life it can go to a textile bank."
+      ],
+      "specification": [
+        ["Dimensions", "380 × 420 mm"],
+        ["Handle length", "700 mm"],
+        ["Material", "Woven cotton, 140 gsm"],
+        ["Colour", "Natural, undyed"],
+        ["Maximum load", "10 kg"],
+        ["Pack quantity", "50"],
+        ["Recyclable", "Reuse, then textile bank"]
+      ],
+      "image": {
+        "alt": "A plain cream cotton tote bag laid flat with its long handles spread out",
+        "prompt": "One plain undyed natural cream cotton tote bag laid flat with its two long handles spread out above it, visible fabric weave, top-down view, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["reusable-woven-carrier", "kraft-swing-tags", "twisted-handle-kraft-carrier"]
+    },
+    {
+      "slug": "reusable-woven-carrier",
+      "name": "Reusable woven carrier, navy",
+      "sku": "CB-RW400",
+      "category": "carrier-bags",
+      "pack": "Pack of 50",
+      "price": 39.50,
+      "tiers": [{ "min": 1, "price": 39.50 }, { "min": 4, "price": 36.25 }, { "min": 12, "price": 32.50 }],
+      "stock": "low-stock",
+      "stockNote": "Only 6 packs left",
+      "summary": "A strong navy woven carrier with a stiffened base, built for heavy shopping and hundreds of trips. Wipes clean.",
+      "description": [
+        "Farm shops, wine merchants and grocers sell this bag to customers who want something that will carry a full load. It is made from woven polypropylene with a light laminate, so it shrugs off spills and wipes clean, and the base has a removable board insert to keep its shape.",
+        "At 400 mm wide, 150 mm deep and 350 mm tall, it fits six bottles, a weekly shop or a box of vegetables. The long stitched handles fit over a shoulder when the bag is full.",
+        "A woven bag needs many uses to beat a paper one, and it is made to manage hundreds. When it does wear out, it can be recycled where polypropylene is collected."
+      ],
+      "specification": [
+        ["Dimensions", "400 × 150 × 350 mm (width × gusset × height)"],
+        ["Material", "Woven polypropylene, 120 gsm, laminated"],
+        ["Colour", "Navy"],
+        ["Base", "Removable board insert"],
+        ["Maximum load", "15 kg"],
+        ["Pack quantity", "50"],
+        ["Recycled content", "30%"],
+        ["Recyclable", "Reuse, then polypropylene recycling where collected"]
+      ],
+      "image": {
+        "alt": "A plain navy woven shopping bag with stitched handles, standing upright and open",
+        "prompt": "One empty plain navy blue woven polypropylene shopping bag with stitched navy handles and a square base, standing upright and open, front three-quarter view at eye level, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["natural-cotton-tote", "twisted-handle-kraft-carrier", "kraft-swing-tags"]
+    },
+    {
+      "slug": "kraft-food-box-lidded",
+      "name": "Kraft food box with fold-lock lid",
+      "sku": "FP-KB800",
+      "category": "food-packaging",
+      "pack": "Pack of 150",
+      "price": 33.00,
+      "tiers": [{ "min": 1, "price": 33.00 }, { "min": 4, "price": 30.25 }, { "min": 12, "price": 27.50 }],
+      "stock": "in-stock",
+      "stockNote": "62 packs ready to dispatch",
+      "summary": "An 800 ml kraft takeaway box with a lid that locks shut. Holds noodles, salads, curries and hot mains without leaking.",
+      "description": [
+        "This box folds up from a single flat blank and closes with interlocking tabs, so the lid stays shut in a carrier bag without tape. A water-based lining on the inside resists grease and moisture for the length of a typical delivery.",
+        "The 800 ml capacity suits a main portion of rice and curry, a noodle dish, a grain salad or a portion of fish and chips. Boxes stack flat in the pack and take a second to fold during service.",
+        "The box is suitable for hot and cold food and can be microwaved briefly with the lid open. Lightly soiled boxes are accepted by many council food-and-garden schemes; check your local rules."
+      ],
+      "specification": [
+        ["Capacity", "800 ml"],
+        ["Dimensions", "170 × 120 × 65 mm (assembled)"],
+        ["Material", "Kraft board, 350 gsm, water-based lining"],
+        ["Colour", "Brown kraft"],
+        ["Food contact", "Suitable for hot and cold food"],
+        ["Pack quantity", "150"],
+        ["Recyclable", "Paper recycling when clean; compost scheme where accepted"]
+      ],
+      "image": {
+        "alt": "A brown kraft takeaway box with its interlocking lid closed, beside one open and empty",
+        "prompt": "Two brown kraft paperboard takeaway food boxes, one closed with interlocking lid tabs, one open and empty showing a plain light inner lining, three-quarter view from above, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["bagasse-clamshell-9in", "twisted-handle-kraft-carrier", "greaseproof-paper-sheets"]
+    },
+    {
+      "slug": "double-wall-hot-cup-12oz",
+      "name": "Double-wall hot cup 12 oz",
+      "sku": "FP-HC12",
+      "category": "food-packaging",
+      "pack": "Box of 500",
+      "price": 46.50,
+      "tiers": [{ "min": 1, "price": 46.50 }, { "min": 4, "price": 42.75 }, { "min": 12, "price": 38.95 }],
+      "stock": "in-stock",
+      "stockNote": "53 boxes ready to dispatch",
+      "summary": "A 12 oz paper cup with an insulating outer wall, so hot drinks need no sleeve. Fits standard 90 mm sip lids.",
+      "description": [
+        "The double wall traps a layer of air between two paper skins, so a cup of fresh coffee is comfortable to hold without a sleeve. It is the cup size cafés sell most: a regular latte, cappuccino or tea.",
+        "The cup holds 340 ml to the brim and fits standard 90 mm sip lids, which are not included. Cups nest in sleeves of 50 inside the box, so they are easy to load into a dispenser.",
+        "The inner wall has a thin plastic lining to hold liquid, which means paper cups need specialist recycling. Many high streets and stations now have cup recycling points, and we can tell you about collection for larger cafés."
+      ],
+      "specification": [
+        ["Capacity", "12 oz (340 ml)"],
+        ["Rim diameter", "90 mm"],
+        ["Height", "110 mm"],
+        ["Material", "Paperboard, double wall, PE-lined inner"],
+        ["Colour", "Plain white"],
+        ["Food contact", "Suitable for hot drinks up to 95 °C"],
+        ["Pack quantity", "500"],
+        ["Recyclable", "At cup recycling points; not kerbside in most areas"]
+      ],
+      "image": {
+        "alt": "Three plain white double-wall paper coffee cups, two stacked and one standing upright",
+        "prompt": "Three plain white double-wall paper hot drink cups without lids, two nested in a short stack and one standing upright beside them, front three-quarter view at eye level, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["kraft-food-box-lidded", "flat-handle-white-carrier", "greaseproof-paper-sheets"]
+    },
+    {
+      "slug": "bagasse-clamshell-9in",
+      "name": "Bagasse clamshell 9 inch",
+      "sku": "FP-BC9",
+      "category": "food-packaging",
+      "pack": "Box of 200",
+      "price": 38.00,
+      "tiers": [{ "min": 1, "price": 38.00 }, { "min": 4, "price": 34.75 }, { "min": 12, "price": 31.50 }],
+      "stock": "low-stock",
+      "stockNote": "Only 11 boxes left",
+      "summary": "A hinged takeaway box moulded from sugar cane fibre. Grease-resistant, microwave-safe and industrially compostable.",
+      "description": [
+        "Bagasse is the fibre left over after sugar cane has been pressed for juice. Moulded into a clamshell, it makes a rigid, grease-resistant takeaway box that keeps its shape with hot food inside and closes with a press-fit tab.",
+        "The 9 inch size, 230 × 230 mm, takes a burger and fries, a full breakfast, a jacket potato with fillings or a main with two sides. It can go in the microwave for reheating and copes with food up to 100 °C.",
+        "Bagasse breaks down in industrial composting, which is how food waste is handled in many council food schemes and at venues with a commercial collection. It should not go in paper recycling, because the food residue spoils the batch."
+      ],
+      "specification": [
+        ["Dimensions", "230 × 230 × 80 mm (closed)"],
+        ["Material", "Moulded sugar cane bagasse"],
+        ["Colour", "Natural off-white"],
+        ["Food contact", "Suitable for hot and cold food up to 100 °C"],
+        ["Microwave safe", "Yes"],
+        ["Pack quantity", "200"],
+        ["Recyclable", "Industrially compostable; not for paper recycling"]
+      ],
+      "image": {
+        "alt": "An off-white moulded fibre clamshell takeaway box with its lid open, beside a closed one",
+        "prompt": "Two natural off-white moulded sugar cane fibre clamshell takeaway boxes, one open showing the empty interior, one closed beside it, three-quarter view from above, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["kraft-food-box-lidded", "greaseproof-paper-sheets", "flat-handle-white-carrier"]
+    },
+    {
+      "slug": "greaseproof-paper-sheets",
+      "name": "Greaseproof paper sheets 250 × 350 mm",
+      "sku": "FP-GP250",
+      "category": "food-packaging",
+      "pack": "Pack of 1,000",
+      "price": 16.50,
+      "tiers": [{ "min": 1, "price": 16.50 }, { "min": 5, "price": 14.95 }, { "min": 10, "price": 13.50 }],
+      "stock": "in-stock",
+      "stockNote": "121 packs ready to dispatch",
+      "summary": "Pre-cut white greaseproof sheets for wrapping sandwiches, lining baskets and trays, and separating baked goods.",
+      "description": [
+        "Greaseproof paper is a dense paper that resists oil and butter without any plastic coating. These sheets come pre-cut in packs of 1,000, so there is no roll to wrestle with during a busy lunch.",
+        "At 250 × 350 mm a sheet wraps a filled baguette or two rounds of sandwiches, lines a serving basket for chips, or sits between layers of cookies and traybakes in a box. Delis use them to wrap cheese and cooked meats before bagging.",
+        "Sheets are suitable for direct food contact. Clean paper can go in kerbside recycling, and greasy sheets in food waste where your council accepts it."
+      ],
+      "specification": [
+        ["Sheet size", "250 × 350 mm"],
+        ["Material", "Bleached greaseproof paper, 40 gsm"],
+        ["Colour", "White"],
+        ["Food contact", "Suitable for direct contact"],
+        ["Pack quantity", "1,000 sheets"],
+        ["Recyclable", "Kerbside paper when clean; food waste when greasy"]
+      ],
+      "image": {
+        "alt": "A neat stack of white greaseproof paper sheets with the top sheet folded back at one corner",
+        "prompt": "A neat stack of plain white translucent greaseproof paper sheets, the top sheet with one corner folded back, three-quarter view from above, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["kraft-food-box-lidded", "window-bakery-bag", "striped-paper-counter-bag"]
+    },
+    {
+      "slug": "magnetic-gift-box-black",
+      "name": "Magnetic-closure gift box, matt black",
+      "sku": "GB-MG250",
+      "category": "gift-boxes",
+      "pack": "Pack of 10",
+      "price": 39.50,
+      "tiers": [{ "min": 1, "price": 39.50 }, { "min": 4, "price": 36.00 }, { "min": 12, "price": 32.50 }],
+      "stock": "made-to-order",
+      "stockNote": "Dispatched in 5 working days",
+      "summary": "A rigid matt black box with a hinged lid that closes with hidden magnets. For candles, skincare sets, hampers and premium gifts.",
+      "description": [
+        "The lid of this box is hinged along the back and closes with two magnets hidden under the covering paper, so it shuts with a soft, satisfying click. It is made from rigid greyboard wrapped in matt black paper, inside and out.",
+        "At 250 × 200 × 80 mm inside, it holds a large candle, a three-piece skincare set, a bottle with tissue, or a small selection of chocolates and preserves. It is presented as a box people keep, so many of our customers add only a ribbon or a sticker.",
+        "We assemble these to order in batches, which is why they take five working days to dispatch. The board and paper can be recycled once the magnets are cut out of the lid."
+      ],
+      "specification": [
+        ["Internal dimensions", "250 × 200 × 80 mm"],
+        ["Material", "1,200 gsm greyboard, matt black wrap"],
+        ["Colour", "Matt black inside and out"],
+        ["Closure", "Hinged lid, two hidden magnets"],
+        ["Pack quantity", "10"],
+        ["Recyclable", "Board yes, once magnets are removed"]
+      ],
+      "image": {
+        "alt": "A matt black rigid gift box with its hinged lid half open, showing a plain black interior",
+        "prompt": "One matt black rigid gift box with its hinged lid half open, empty plain black interior, a few sheets of plain white tissue beside it, front three-quarter view at eye level, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["rigid-two-piece-box-white", "round-kraft-seal-stickers", "flat-handle-white-carrier"]
+    },
+    {
+      "slug": "rigid-two-piece-box-white",
+      "name": "Rigid two-piece box with lid, white",
+      "sku": "GB-RT150",
+      "category": "gift-boxes",
+      "pack": "Pack of 20",
+      "price": 36.00,
+      "tiers": [{ "min": 1, "price": 36.00 }, { "min": 4, "price": 32.75 }, { "min": 12, "price": 29.50 }],
+      "stock": "made-to-order",
+      "stockNote": "Dispatched in 5 working days",
+      "summary": "A white rigid box with a separate lift-off lid. A clean, simple presentation box for jewellery, accessories and small gifts.",
+      "description": [
+        "Two-piece boxes are the traditional presentation box: a deep base and a lid that slides down over it. Both parts are rigid greyboard wrapped in smooth white paper, and the lid is a snug fit that lifts off with a gentle pull.",
+        "At 150 × 150 × 100 mm inside, it fits a scarf, a pair of small candles, a mug, a jewellery roll or a set of handmade soaps. A white finish works with any colour of tissue paper or ribbon you choose.",
+        "Like our magnetic boxes, these are wrapped to order and dispatched within five working days. The whole box is paper and board and can be recycled at the kerbside."
+      ],
+      "specification": [
+        ["Internal dimensions", "150 × 150 × 100 mm"],
+        ["Material", "1,000 gsm greyboard, white wrap"],
+        ["Colour", "White"],
+        ["Closure", "Separate lift-off lid"],
+        ["Pack quantity", "20"],
+        ["Recyclable", "Yes, kerbside"]
+      ],
+      "image": {
+        "alt": "A white square rigid box with its lid lifted and resting against the base",
+        "prompt": "One plain white square rigid two-piece gift box with the lid lifted off and resting at an angle against the empty base, front three-quarter view at eye level, plain light-grey seamless studio background, soft even lighting with gentle shadows, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["magnetic-gift-box-black", "velvet-ring-box", "kraft-swing-tags"]
+    },
+    {
+      "slug": "velvet-ring-box",
+      "name": "Velvet-lined ring box",
+      "sku": "GB-VR50",
+      "category": "gift-boxes",
+      "pack": "Pack of 24",
+      "price": 27.50,
+      "tiers": [{ "min": 1, "price": 27.50 }, { "min": 4, "price": 25.00 }, { "min": 12, "price": 22.50 }],
+      "stock": "low-stock",
+      "stockNote": "Only 7 packs left",
+      "summary": "A small hinged box lined with soft velvet and a slotted ring pad. For jewellers, craft fairs and handmade ring makers.",
+      "description": [
+        "This compact box has a sprung hinge, a dark grey velvet-covered shell and a velvet ring pad with a slot that holds a ring upright. The lid stays open on its own, so the ring is shown off when the box is handed over.",
+        "At 50 × 50 × 40 mm outside, it fits a single ring or a pair of stud earrings, and slips easily into a pocket or a small padded mailer for posting.",
+        "The box is made to be kept rather than thrown away. Because the velvet and hinge are bonded together, it cannot be recycled at the kerbside."
+      ],
+      "specification": [
+        ["External dimensions", "50 × 50 × 40 mm"],
+        ["Material", "Card shell, velvet covering, metal hinge"],
+        ["Colour", "Dark grey"],
+        ["Insert", "Velvet ring pad with slot"],
+        ["Pack quantity", "24"],
+        ["Recyclable", "No; designed for reuse"]
+      ],
+      "image": {
+        "alt": "A small dark grey velvet ring box with the lid open and an empty slotted ring pad",
+        "prompt": "One small square dark grey velvet ring box with its hinged lid open, an empty velvet ring pad with a slot inside, a second closed box beside it, front three-quarter view close up, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["rigid-two-piece-box-white", "padded-kraft-mailer", "kraft-swing-tags"]
+    },
+    {
+      "slug": "kraft-pillow-box",
+      "name": "Kraft pillow box",
+      "sku": "GB-KP120",
+      "category": "gift-boxes",
+      "pack": "Pack of 100",
+      "price": 19.50,
+      "tiers": [{ "min": 1, "price": 19.50 }, { "min": 5, "price": 17.75 }, { "min": 10, "price": 15.95 }],
+      "stock": "in-stock",
+      "stockNote": "88 packs ready to dispatch",
+      "summary": "A curved kraft box that folds flat and pops into shape. For soaps, favours, samples and small handmade gifts.",
+      "description": [
+        "Pillow boxes ship completely flat. Press the curved ends inwards and the box forms its soft pillow shape, with the ends tucking shut on both sides. No glue or tape is needed, and it takes a few seconds per box.",
+        "At 120 × 90 × 30 mm assembled, it holds a bar of soap, a small candle tin, a pair of socks, sweets for wedding favours or product samples for a launch. Wrap a ribbon around the middle or close it with a seal sticker.",
+        "The box is a single piece of kraft board and can be recycled at the kerbside."
+      ],
+      "specification": [
+        ["Dimensions", "120 × 90 × 30 mm (assembled)"],
+        ["Material", "Kraft board, 350 gsm"],
+        ["Colour", "Brown kraft"],
+        ["Closure", "Curved tuck-in ends"],
+        ["Pack quantity", "100"],
+        ["Recycled content", "60%"],
+        ["Recyclable", "Yes, kerbside"]
+      ],
+      "image": {
+        "alt": "Three small curved brown kraft pillow boxes, one tied with plain twine",
+        "prompt": "Three small curved brown kraft paperboard pillow boxes, one tied around the middle with plain natural twine, arranged loosely, three-quarter view from above, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["round-kraft-seal-stickers", "kraft-swing-tags", "crash-lock-mailer-box"]
+    },
+    {
+      "slug": "thermal-shipping-labels",
+      "name": "Thermal shipping labels 100 × 150 mm",
+      "sku": "LT-TH100",
+      "category": "labels-and-tags",
+      "pack": "Pack of 4 rolls",
+      "price": 36.00,
+      "tiers": [{ "min": 1, "price": 36.00 }, { "min": 5, "price": 32.50 }, { "min": 10, "price": 29.50 }],
+      "stock": "in-stock",
+      "stockNote": "132 packs ready to dispatch",
+      "summary": "Direct thermal labels in the standard 100 × 150 mm courier size. No ink or ribbon needed; four rolls of 500 labels.",
+      "description": [
+        "These are the 6 × 4 inch labels that courier and postage platforms print by default. Direct thermal paper darkens where the print head heats it, so there is no ink, toner or ribbon to buy, and every label prints sharp barcodes.",
+        "Each roll holds 500 labels on a 25 mm core with perforations between them, which suits most desktop thermal printers used by online sellers. A permanent adhesive grips cardboard, paper mailers and polythene bags alike.",
+        "Thermal paper is coated and should not go in paper recycling. When a label is stuck to a cardboard box, most recycling schemes accept the box with the label still on."
+      ],
+      "specification": [
+        ["Label size", "100 × 150 mm"],
+        ["Labels per roll", "500"],
+        ["Rolls per pack", "4"],
+        ["Core diameter", "25 mm"],
+        ["Material", "Direct thermal paper, permanent adhesive"],
+        ["Colour", "White"],
+        ["Recyclable", "No; general waste on its own"]
+      ],
+      "image": {
+        "alt": "Two rolls of blank white thermal labels, one with a few labels unrolled",
+        "prompt": "Two rolls of blank white rectangular thermal shipping labels on small cores, one roll with a short strip of blank labels unrolled across the surface, three-quarter view from above, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no barcodes, no labels printed, no logos, no printing"
+      },
+      "related": ["padded-kraft-mailer", "single-wall-postal-carton", "recycled-grey-mailing-bag"]
+    },
+    {
+      "slug": "kraft-swing-tags",
+      "name": "Kraft swing tags with string",
+      "sku": "LT-KS70",
+      "category": "labels-and-tags",
+      "pack": "Pack of 500",
+      "price": 14.50,
+      "tiers": [{ "min": 1, "price": 14.50 }, { "min": 5, "price": 12.95 }, { "min": 10, "price": 11.50 }],
+      "stock": "in-stock",
+      "stockNote": "104 packs ready to dispatch",
+      "summary": "Thick kraft tags with a reinforced hole and pre-cut cotton string. For prices, care details and handwritten gift notes.",
+      "description": [
+        "Swing tags give handmade products a finished look. These are cut from thick unbleached kraft card with a rounded top and a reinforced eyelet, and each comes with a length of natural cotton string ready to tie.",
+        "At 70 × 40 mm there is room for a price, a size and a care note, or a short message on a gift. They take a rubber stamp, a fine pen or a sticker, and can be run through most home printers on a carrier sheet.",
+        "Both the card and the cotton string are natural materials. Tags can go in kerbside paper recycling once the string is removed."
+      ],
+      "specification": [
+        ["Tag size", "70 × 40 mm"],
+        ["Material", "Kraft card, 350 gsm"],
+        ["String", "Natural cotton, 200 mm, pre-cut"],
+        ["Colour", "Brown kraft"],
+        ["Pack quantity", "500 tags with strings"],
+        ["Recyclable", "Yes, kerbside paper, string removed"]
+      ],
+      "image": {
+        "alt": "A loose pile of blank brown kraft swing tags with natural cotton strings",
+        "prompt": "A loose pile of about a dozen blank brown kraft card swing tags with rounded tops and reinforced holes, natural cream cotton strings threaded through, top-down view, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["coloured-tie-on-tags", "round-kraft-seal-stickers", "natural-cotton-tote"]
+    },
+    {
+      "slug": "round-kraft-seal-stickers",
+      "name": "Round kraft seal stickers 38 mm",
+      "sku": "LT-RS38",
+      "category": "labels-and-tags",
+      "pack": "Roll of 500",
+      "price": 8.95,
+      "tiers": [{ "min": 1, "price": 8.95 }, { "min": 5, "price": 7.95 }, { "min": 10, "price": 6.95 }],
+      "stock": "in-stock",
+      "stockNote": "160 rolls ready to dispatch",
+      "summary": "Plain round kraft paper stickers for sealing tissue, paper bags and pillow boxes. Write on them, stamp them or leave them plain.",
+      "description": [
+        "A single round sticker is the neatest way to close tissue paper inside a box, fold over the top of a paper bag or seal a pillow box. These are cut from unbleached kraft paper with a permanent adhesive, supplied on a roll that fits a small dispenser or sits beside the packing bench.",
+        "At 38 mm across they are large enough for a stamped logo, a handwritten name or a best-before date. Bakeries use them to date window bags; makers use them as a plain finishing touch.",
+        "The paper face and adhesive are suitable for paper recycling, so a bag or box sealed with one can go in the kerbside bin without the sticker being peeled off."
+      ],
+      "specification": [
+        ["Diameter", "38 mm"],
+        ["Material", "Uncoated kraft paper, permanent adhesive"],
+        ["Colour", "Brown kraft"],
+        ["Core diameter", "76 mm"],
+        ["Pack quantity", "500 stickers on one roll"],
+        ["Recyclable", "Yes, with paper and cardboard"]
+      ],
+      "image": {
+        "alt": "A roll of blank round brown kraft stickers with a few peeled off and placed beside it",
+        "prompt": "One roll of blank round brown kraft paper stickers on a cardboard core, three loose stickers lying beside it, top-down view at a slight angle, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["kraft-pillow-box", "window-bakery-bag", "kraft-swing-tags"]
+    },
+    {
+      "slug": "coloured-tie-on-tags",
+      "name": "Coloured tie-on tags, assorted",
+      "sku": "LT-CT120",
+      "category": "labels-and-tags",
+      "pack": "Box of 1,000",
+      "price": 24.00,
+      "tiers": [{ "min": 1, "price": 24.00 }, { "min": 5, "price": 21.50 }, { "min": 10, "price": 19.25 }],
+      "stock": "in-stock",
+      "stockNote": "49 boxes ready to dispatch",
+      "summary": "Strung manila-style tags in five colours, for stock rooms, workshops, sorting and coding. Pre-strung and ready to tie.",
+      "description": [
+        "Tie-on tags are the quickest way to mark sacks, keys, rolls of fabric, stock bins and garments in for repair. These come pre-strung with cotton string and a reinforced eyelet, in five colours so you can sort by week, customer or status at a glance.",
+        "Each tag measures 120 × 60 mm, enough for a reference number and a short note in marker pen. The box holds 200 each of buff, red, blue, green and yellow.",
+        "The card is paper-based and can go in kerbside recycling once the string has been removed."
+      ],
+      "specification": [
+        ["Tag size", "120 × 60 mm"],
+        ["Material", "Card, 250 gsm, reinforced eyelet"],
+        ["String", "Cotton, pre-strung, 250 mm"],
+        ["Colours", "Buff, red, blue, green, yellow"],
+        ["Pack quantity", "1,000 (200 of each colour)"],
+        ["Recyclable", "Yes, kerbside paper, string removed"]
+      ],
+      "image": {
+        "alt": "Blank tie-on tags in buff, red, blue, green and yellow fanned out with their strings",
+        "prompt": "A fan of blank rectangular tie-on card tags in buff, red, blue, green and yellow, each with a reinforced eyelet and a white cotton string, top-down view, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["kraft-swing-tags", "archive-storage-box", "thermal-shipping-labels"]
+    },
+    {
+      "slug": "kraft-paper-tape",
+      "name": "Kraft paper packing tape 48 mm × 50 m",
+      "sku": "TP-KT48",
+      "category": "tape-and-protective",
+      "pack": "Pack of 6 rolls",
+      "price": 12.90,
+      "tiers": [{ "min": 1, "price": 12.90 }, { "min": 5, "price": 11.75 }, { "min": 10, "price": 10.50 }],
+      "stock": "in-stock",
+      "stockNote": "210 packs ready to dispatch",
+      "summary": "Self-adhesive brown paper tape that seals cartons and recycles with them. Works in a standard tape gun.",
+      "description": [
+        "This is a kraft paper tape with a natural rubber adhesive, so it sticks like ordinary packing tape and goes into the cardboard recycling with the box. No need to peel it off before flattening a carton.",
+        "Each roll is 48 mm wide and 50 m long on a standard 76 mm core, so it fits the tape guns you already use. The paper tears cleanly by hand too, which is useful for small parcels at the counter.",
+        "It holds well on single-wall and double-wall cartons up to around 20 kg. For heavier boxes or cold, damp warehouses, run a second strip across each seam."
+      ],
+      "specification": [
+        ["Width", "48 mm"],
+        ["Length", "50 m"],
+        ["Core diameter", "76 mm"],
+        ["Material", "Kraft paper, natural rubber adhesive"],
+        ["Colour", "Brown"],
+        ["Pack quantity", "6 rolls"],
+        ["Recyclable", "Yes, with the cardboard it seals"]
+      ],
+      "image": {
+        "alt": "Three rolls of brown kraft paper tape, one partly unwound across the surface",
+        "prompt": "Three rolls of plain brown kraft paper packing tape, two stacked and one lying flat with a short length unwound across the surface, three-quarter view from above, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["single-wall-postal-carton", "honeycomb-kraft-wrap", "double-wall-shipping-carton"]
+    },
+    {
+      "slug": "bubble-wrap-roll",
+      "name": "Bubble wrap roll 750 mm × 100 m",
+      "sku": "TP-BW750",
+      "category": "tape-and-protective",
+      "pack": "Single roll",
+      "price": 21.50,
+      "tiers": [{ "min": 1, "price": 21.50 }, { "min": 4, "price": 19.50 }, { "min": 12, "price": 17.50 }],
+      "stock": "in-stock",
+      "stockNote": "75 rolls ready to dispatch",
+      "summary": "A full-width roll of small-bubble wrap for glass, ceramics and electronics. Made with recycled polythene.",
+      "description": [
+        "Bubble wrap is still the most forgiving protection for glass, ceramics and anything with a screen. This roll uses 10 mm bubbles, which wrap tightly around corners and handles while giving a good cushion against knocks.",
+        "At 750 mm wide and 100 m long, one roll wraps around 300 mugs or 150 bottles of wine. The roll is perforated every 300 mm so you can tear off sheets without scissors.",
+        "The film contains recycled polythene and can be recycled with carrier bags at supermarket collection points. Many customers reuse it, so a line on your packing slip is worth adding."
+      ],
+      "specification": [
+        ["Width", "750 mm"],
+        ["Length", "100 m"],
+        ["Bubble size", "10 mm"],
+        ["Material", "Polythene (LDPE)"],
+        ["Perforation", "Every 300 mm"],
+        ["Pack quantity", "1 roll"],
+        ["Recycled content", "30%"],
+        ["Recyclable", "Yes, at carrier bag collection points"]
+      ],
+      "image": {
+        "alt": "A large roll of clear bubble wrap standing on end, with a sheet partly unrolled",
+        "prompt": "One large roll of clear small-bubble wrap standing on its end, with a sheet partly unrolled across the floor in front, three-quarter view at eye level, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["double-wall-shipping-carton", "kraft-paper-tape", "honeycomb-kraft-wrap"]
+    },
+    {
+      "slug": "pallet-stretch-film",
+      "name": "Pallet stretch film 400 mm × 250 m",
+      "sku": "TP-SF400",
+      "category": "tape-and-protective",
+      "pack": "Pack of 6 rolls",
+      "price": 39.00,
+      "tiers": [{ "min": 1, "price": 39.00 }, { "min": 4, "price": 35.75 }, { "min": 12, "price": 32.50 }],
+      "stock": "in-stock",
+      "stockNote": "31 packs ready to dispatch",
+      "summary": "Hand-wrap stretch film for securing cartons on a pallet. Clear, 17 µm, with recycled content.",
+      "description": [
+        "When a stack of cartons leaves on a pallet, stretch film keeps it together as one load. This hand-wrap film clings to itself, stretches around corners without tearing and lets the driver see what is under it.",
+        "Rolls are 400 mm wide and 250 m long, light enough to use with a hand dispenser or a simple cardboard core handle. One roll wraps five to six standard pallets, depending on how many turns you put at the base.",
+        "The film includes 30% recycled polythene. Clean film collected in a clear sack is accepted by most commercial waste and film recycling collections."
+      ],
+      "specification": [
+        ["Width", "400 mm"],
+        ["Length", "250 m"],
+        ["Thickness", "17 µm"],
+        ["Core diameter", "50 mm"],
+        ["Material", "Cast polythene (LLDPE)"],
+        ["Colour", "Clear"],
+        ["Pack quantity", "6 rolls"],
+        ["Recyclable", "Yes, through commercial film recycling"]
+      ],
+      "image": {
+        "alt": "Two rolls of clear stretch film, one lying on its side with a length pulled out",
+        "prompt": "Two rolls of clear plastic pallet stretch film on cardboard cores, one standing on end and one lying on its side with a short length pulled out, three-quarter view at eye level, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["double-wall-shipping-carton", "kraft-paper-tape", "coloured-tie-on-tags"]
+    },
+    {
+      "slug": "honeycomb-kraft-wrap",
+      "name": "Honeycomb kraft wrap 380 mm × 100 m",
+      "sku": "TP-HW380",
+      "category": "tape-and-protective",
+      "pack": "Single roll",
+      "price": 34.50,
+      "tiers": [{ "min": 1, "price": 34.50 }, { "min": 4, "price": 31.50 }, { "min": 12, "price": 28.50 }],
+      "stock": "in-stock",
+      "stockNote": "57 rolls ready to dispatch",
+      "summary": "Die-cut kraft paper that stretches into a cushioning honeycomb. A paper alternative to bubble wrap for fragile items.",
+      "description": [
+        "Honeycomb wrap is kraft paper cut with rows of small slits. When you pull it, the paper opens into a three-dimensional honeycomb that grips itself, so it wraps around a vase or a bottle without tape.",
+        "The roll is 380 mm wide and 100 m long unstretched, opening to around 150 m in use. Wrap glassware in two or three layers, then add a sheet of tissue inside the honeycomb for very delicate finishes. It comes in a dispenser carton with a cutting edge.",
+        "It is all paper, so your customer can recycle it at the kerbside with the box it arrived in."
+      ],
+      "specification": [
+        ["Width", "380 mm"],
+        ["Length", "100 m unstretched, about 150 m stretched"],
+        ["Material", "Kraft paper, 80 gsm"],
+        ["Colour", "Brown kraft"],
+        ["Supplied in", "Dispenser carton with cutting edge"],
+        ["Pack quantity", "1 roll"],
+        ["Recycled content", "50%"],
+        ["Recyclable", "Yes, kerbside paper"]
+      ],
+      "image": {
+        "alt": "A roll of brown kraft paper with a stretched length open in a honeycomb pattern",
+        "prompt": "One roll of brown kraft honeycomb paper wrap, with a length pulled out and stretched open to show the three-dimensional honeycomb pattern, wrapped loosely around a plain clear glass jar, three-quarter view from above, plain light-grey seamless studio background, soft even lighting, completely unbranded, no text, no labels, no logos, no printing"
+      },
+      "related": ["crash-lock-mailer-box", "kraft-paper-tape", "honeycomb-paper-mailer"]
+    }
+  ]
+}

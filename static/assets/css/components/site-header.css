@@ -1,0 +1,211 @@
+.site-header {
+    background: var(--color-white);
+    border-bottom: 1px solid var(--color-line);
+    position: relative;
+    z-index: 20;
+}
+
+.utility-bar {
+    background: var(--color-surface);
+    font-size: var(--text-xs);
+}
+
+.utility-bar__inner {
+    align-items: center;
+    display: flex;
+    gap: var(--space-1) var(--space-4);
+    justify-content: space-between;
+    min-height: 2.25rem;
+}
+
+.utility-bar__contact {
+    display: flex;
+    gap: var(--space-1) var(--space-4);
+    list-style: none;
+    padding: 0;
+}
+
+.utility-bar__link {
+    align-items: center;
+    color: var(--color-ink);
+    display: inline-flex;
+    gap: var(--space-2);
+    min-height: 1.5rem;
+    min-width: 1.5rem;
+    text-decoration: none;
+}
+
+.utility-bar__link .icon {
+    color: var(--color-indigo);
+    height: 1rem;
+    width: 1rem;
+}
+
+.utility-bar__link:hover {
+    color: var(--color-indigo);
+    text-decoration: underline;
+}
+
+.utility-nav {
+    align-items: center;
+    display: flex;
+    gap: var(--space-4);
+}
+
+.utility-nav__list {
+    display: none;
+    gap: var(--space-4);
+    list-style: none;
+    padding: 0;
+}
+
+.utility-nav__link {
+    color: var(--color-ink);
+    display: inline-block;
+    line-height: 1.5rem;
+    text-decoration: none;
+}
+
+.utility-nav__link:hover,
+.utility-nav__link[aria-current] {
+    color: var(--color-indigo);
+    text-decoration: underline;
+}
+
+@media (min-width: 48rem) {
+    .utility-nav__list {
+        display: flex;
+    }
+}
+
+@media (max-width: 63.99rem) {
+    .utility-bar__email {
+        block-size: 1px;
+        clip-path: inset(50%);
+        inline-size: 1px;
+        overflow: hidden;
+        position: absolute;
+        white-space: nowrap;
+    }
+}
+
+.site-header__main {
+    align-items: center;
+    display: grid;
+    gap: var(--space-3);
+    grid-template-areas:
+        "logo actions"
+        "menu search";
+    grid-template-columns: auto minmax(0, 1fr);
+    padding-block: var(--space-3);
+    position: relative;
+}
+
+.site-header__main > .logo {
+    grid-area: logo;
+    justify-self: start;
+}
+
+.site-header__main > .category-menu {
+    grid-area: menu;
+}
+
+.site-header__main > .site-search {
+    grid-area: search;
+}
+
+.site-header__main > .header-actions {
+    grid-area: actions;
+    justify-self: end;
+}
+
+@media (max-width: 29.99rem) {
+    .site-header__main {
+        grid-template-areas:
+            "logo actions"
+            "menu menu"
+            "search search";
+    }
+}
+
+@media (min-width: 64rem) {
+    .site-header__main {
+        gap: var(--space-5);
+        grid-template-areas: "logo menu search actions";
+        grid-template-columns: auto auto minmax(0, 1fr) auto;
+        min-height: 5.5rem;
+        padding-block: 0.9375rem;
+    }
+}
+
+.header-actions {
+    align-items: center;
+    display: flex;
+    gap: var(--space-3) var(--space-5);
+    list-style: none;
+    padding: 0;
+}
+
+.icon-link {
+    align-items: center;
+    color: var(--color-ink);
+    display: inline-flex;
+    font-size: var(--text-sm);
+    gap: var(--space-2);
+    text-decoration: none;
+}
+
+.icon-link__circle {
+    align-items: center;
+    background: var(--color-indigo);
+    border-radius: 50%;
+    color: var(--color-white);
+    display: inline-flex;
+    height: 2.75rem;
+    justify-content: center;
+    position: relative;
+    transition: background var(--duration) var(--ease);
+    width: 2.75rem;
+}
+
+.icon-link:hover {
+    color: var(--color-indigo);
+}
+
+.icon-link:hover .icon-link__circle {
+    background: var(--color-indigo-hover);
+}
+
+.icon-link:hover .icon-link__label,
+.icon-link[aria-current] .icon-link__label {
+    color: var(--color-indigo);
+    text-decoration: underline;
+}
+
+.icon-link__badge {
+    background: var(--color-action);
+    border: 2px solid var(--color-white);
+    border-radius: var(--radius-pill);
+    color: var(--color-white);
+    font-size: var(--text-xs);
+    font-variant-numeric: tabular-nums;
+    font-weight: 700;
+    line-height: 1;
+    min-width: 1.5rem;
+    padding: 0.1875rem 0.3125rem;
+    position: absolute;
+    right: -0.625rem;
+    text-align: center;
+    top: -0.5rem;
+}
+
+@media (max-width: 47.99rem) {
+    .icon-link__label {
+        block-size: 1px;
+        clip-path: inset(50%);
+        inline-size: 1px;
+        overflow: hidden;
+        position: absolute;
+        white-space: nowrap;
+    }
+}

@@ -1,0 +1,33 @@
+.data-table {
+    font-size: var(--text-sm);
+}
+
+.data-table th,
+.data-table td {
+    border: 1px solid var(--color-line);
+    padding: var(--space-2) var(--space-3);
+    text-align: left;
+    vertical-align: top;
+}
+
+.data-table thead th {
+    background: var(--color-surface);
+    font-weight: 500;
+}
+
+.data-table tbody th {
+    font-weight: 500;
+}
+
+.data-table__price {
+    font-variant-numeric: tabular-nums;
+}
+
+.table-scroll {
+    max-width: 100%;
+    overflow-x: auto;
+}
+
+.table-scroll .data-table {
+    min-width: 40rem;
+}

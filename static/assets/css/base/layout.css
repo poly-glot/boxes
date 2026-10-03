@@ -1,0 +1,130 @@
+.container {
+    margin-inline: auto;
+    max-width: calc(var(--container) + var(--gutter) * 2);
+    padding-inline: var(--gutter);
+    width: 100%;
+}
+
+.section {
+    padding-block: var(--space-7);
+}
+
+.section--tight {
+    padding-block: var(--space-6);
+}
+
+.band--surface {
+    background: var(--color-surface);
+}
+
+.section-head {
+    align-items: baseline;
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2) var(--space-5);
+    justify-content: space-between;
+    margin-bottom: var(--space-5);
+}
+
+.section-head__title {
+    font-size: var(--text-lg);
+}
+
+.stack {
+    align-content: start;
+    display: grid;
+    gap: var(--space-5);
+}
+
+.stack > .button,
+.stack > .text-link {
+    justify-self: start;
+}
+
+.grid-2,
+.grid-3,
+.grid-4 {
+    display: grid;
+    gap: var(--grid-gap);
+    list-style: none;
+    padding: 0;
+}
+
+@media (min-width: 40rem) {
+    .grid-2,
+    .grid-4 {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+@media (min-width: 48rem) {
+    .grid-3 {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+}
+
+@media (min-width: 64rem) {
+    .grid-4 {
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+}
+
+.with-aside {
+    display: grid;
+    gap: var(--space-7) var(--grid-gap);
+    padding-block: var(--space-6) var(--space-7);
+}
+
+.with-aside__main,
+.with-aside__aside {
+    align-content: start;
+    display: grid;
+    gap: var(--space-6);
+    min-width: 0;
+}
+
+@media (min-width: 64rem) {
+    .with-aside {
+        grid-template-columns: minmax(0, 1fr) minmax(16rem, 22rem);
+    }
+}
+
+.link-list {
+    display: grid;
+    gap: var(--space-2);
+    list-style: none;
+    padding: 0;
+}
+
+.link-list a {
+    display: inline-block;
+    font-weight: 500;
+    padding-block: var(--space-1);
+}
+
+.visually-hidden {
+    block-size: 1px;
+    clip-path: inset(50%);
+    inline-size: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+}
+
+.skip-link {
+    background: var(--color-indigo);
+    color: var(--color-white);
+    font-weight: 500;
+    left: var(--space-4);
+    padding: var(--space-3) var(--space-4);
+    position: absolute;
+    top: 0;
+    transform: translateY(-120%);
+    transition: transform var(--duration) var(--ease);
+    z-index: 100;
+}
+
+.skip-link:focus {
+    color: var(--color-white);
+    transform: translateY(var(--space-4));
+}

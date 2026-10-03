@@ -1,0 +1,17 @@
+.map-frame {
+    border: 1px solid var(--color-line);
+    display: grid;
+}
+
+.map-frame__map {
+    aspect-ratio: 16 / 9;
+    background: var(--color-surface);
+    object-fit: cover;
+    width: 100%;
+}
+
+.map-frame__caption {
+    color: var(--color-muted);
+    font-size: var(--text-sm);
+    padding: var(--space-3) var(--space-4);
+}

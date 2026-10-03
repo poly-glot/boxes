@@ -1,0 +1,1162 @@
+{
+  "products": [
+    {
+      "slug": "single-wall-postal-carton",
+      "name": "Single-wall postal carton 305 × 229 × 152 mm",
+      "sku": "BX-SW305",
+      "pack": "Pack of 25",
+      "price": 14.95,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 14.95
+        },
+        {
+          "min": 5,
+          "price": 13.45
+        },
+        {
+          "min": 10,
+          "price": 11.95
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/single-wall-postal-carton-400.webp",
+        "large": "/assets/img/products/single-wall-postal-carton-800.webp",
+        "alt": "A brown single-wall cardboard carton, flaps open, with two flat cartons leaning behind it"
+      },
+      "category": "boxes-and-cartons",
+      "categoryName": "Boxes & cartons",
+      "url": "/products/single-wall-postal-carton/",
+      "summary": "An everyday brown postal carton for parcels up to 15 kg. Fits within standard parcel size limits and folds flat until you need it."
+    },
+    {
+      "slug": "double-wall-shipping-carton",
+      "name": "Double-wall shipping carton 457 × 305 × 305 mm",
+      "sku": "BX-DW457",
+      "pack": "Pack of 15",
+      "price": 24.5,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 24.5
+        },
+        {
+          "min": 5,
+          "price": 22.25
+        },
+        {
+          "min": 10,
+          "price": 19.95
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/double-wall-shipping-carton-400.webp",
+        "large": "/assets/img/products/double-wall-shipping-carton-800.webp",
+        "alt": "A large brown double-wall cardboard carton, closed, with its thick corrugated edge visible"
+      },
+      "category": "boxes-and-cartons",
+      "categoryName": "Boxes & cartons",
+      "url": "/products/double-wall-shipping-carton/",
+      "summary": "A heavy-duty double-wall carton for loads up to 30 kg, house moves and fragile goods that need extra crush strength."
+    },
+    {
+      "slug": "crash-lock-mailer-box",
+      "name": "Crash-lock mailer box 220 × 160 × 80 mm",
+      "sku": "BX-CL220",
+      "pack": "Pack of 50",
+      "price": 29.5,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 29.5
+        },
+        {
+          "min": 4,
+          "price": 27.25
+        },
+        {
+          "min": 12,
+          "price": 24.5
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/crash-lock-mailer-box-400.webp",
+        "large": "/assets/img/products/crash-lock-mailer-box-800.webp",
+        "alt": "A brown kraft mailer box with the lid open, showing a white interior, beside a closed one"
+      },
+      "category": "boxes-and-cartons",
+      "categoryName": "Boxes & cartons",
+      "url": "/products/crash-lock-mailer-box/",
+      "summary": "A kraft mailer box with a crash-lock base that pops into shape in seconds. Fits through most letterboxes as a small parcel."
+    },
+    {
+      "slug": "archive-storage-box",
+      "name": "Archive storage box with lid",
+      "sku": "BX-AR400",
+      "pack": "Pack of 10",
+      "price": 18.9,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 18.9
+        },
+        {
+          "min": 5,
+          "price": 17.25
+        },
+        {
+          "min": 10,
+          "price": 15.5
+        }
+      ],
+      "stock": "low-stock",
+      "image": {
+        "small": "/assets/img/products/archive-storage-box-400.webp",
+        "large": "/assets/img/products/archive-storage-box-800.webp",
+        "alt": "A brown cardboard archive box with its lid lifted and leaning against the side, showing hand holes"
+      },
+      "category": "boxes-and-cartons",
+      "categoryName": "Boxes & cartons",
+      "url": "/products/archive-storage-box/",
+      "summary": "A sturdy lidded box for files, records and stockroom overflow. Holds A4 lever-arch files upright and stacks without crushing."
+    },
+    {
+      "slug": "padded-kraft-mailer",
+      "name": "Padded kraft mailer 220 × 330 mm",
+      "sku": "MB-PK220",
+      "pack": "Pack of 100",
+      "price": 24,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 24
+        },
+        {
+          "min": 5,
+          "price": 21.95
+        },
+        {
+          "min": 10,
+          "price": 19.75
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/padded-kraft-mailer-400.webp",
+        "large": "/assets/img/products/padded-kraft-mailer-800.webp",
+        "alt": "A small fanned stack of brown padded kraft envelopes with the top one's flap open"
+      },
+      "category": "mailing-bags-and-envelopes",
+      "categoryName": "Mailing bags & envelopes",
+      "url": "/products/padded-kraft-mailer/",
+      "summary": "A brown kraft envelope padded with recycled paper fibre. Cushions books, phone cases and small gifts, with no plastic in it."
+    },
+    {
+      "slug": "recycled-grey-mailing-bag",
+      "name": "Recycled grey mailing bag 305 × 405 mm",
+      "sku": "MB-RG305",
+      "pack": "Box of 500",
+      "price": 34.5,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 34.5
+        },
+        {
+          "min": 4,
+          "price": 31.5
+        },
+        {
+          "min": 12,
+          "price": 28.25
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/recycled-grey-mailing-bag-400.webp",
+        "large": "/assets/img/products/recycled-grey-mailing-bag-800.webp",
+        "alt": "Three flat grey mailing bags overlapping, one with its flap folded back to show a black interior"
+      },
+      "category": "mailing-bags-and-envelopes",
+      "categoryName": "Mailing bags & envelopes",
+      "url": "/products/recycled-grey-mailing-bag/",
+      "summary": "A tough, opaque mailing bag made with recycled polythene. Keeps clothing and soft goods dry and private in transit."
+    },
+    {
+      "slug": "board-backed-envelope-c4",
+      "name": "Board-backed envelope C4",
+      "sku": "MB-BBC4",
+      "pack": "Pack of 100",
+      "price": 27.5,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 27.5
+        },
+        {
+          "min": 5,
+          "price": 25
+        },
+        {
+          "min": 10,
+          "price": 22.5
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/board-backed-envelope-c4-400.webp",
+        "large": "/assets/img/products/board-backed-envelope-c4-800.webp",
+        "alt": "Two plain manila board-backed envelopes, one turned over to show its grey board back"
+      },
+      "category": "mailing-bags-and-envelopes",
+      "categoryName": "Mailing bags & envelopes",
+      "url": "/products/board-backed-envelope-c4/",
+      "summary": "A manila envelope with a stiff board back, for prints, certificates and documents that must arrive flat and uncreased."
+    },
+    {
+      "slug": "honeycomb-paper-mailer",
+      "name": "Honeycomb-padded paper mailer 250 × 350 mm",
+      "sku": "MB-HP250",
+      "pack": "Pack of 100",
+      "price": 36,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 36
+        },
+        {
+          "min": 5,
+          "price": 32.75
+        },
+        {
+          "min": 10,
+          "price": 29.5
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/honeycomb-paper-mailer-400.webp",
+        "large": "/assets/img/products/honeycomb-paper-mailer-800.webp",
+        "alt": "A brown paper mailer with its flap open, showing a honeycomb-patterned paper lining inside"
+      },
+      "category": "mailing-bags-and-envelopes",
+      "categoryName": "Mailing bags & envelopes",
+      "url": "/products/honeycomb-paper-mailer/",
+      "summary": "A plastic-free mailer lined with expanded honeycomb kraft. Protects small, delicate items and recycles with the paper."
+    },
+    {
+      "slug": "striped-paper-counter-bag",
+      "name": "Striped paper counter bag 178 × 178 mm",
+      "sku": "PB-ST178",
+      "pack": "Pack of 1,000",
+      "price": 18.5,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 18.5
+        },
+        {
+          "min": 5,
+          "price": 16.75
+        },
+        {
+          "min": 10,
+          "price": 14.95
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/striped-paper-counter-bag-400.webp",
+        "large": "/assets/img/products/striped-paper-counter-bag-800.webp",
+        "alt": "A short stack of flat paper bags with red and white vertical stripes, one slightly opened"
+      },
+      "category": "paper-bags",
+      "categoryName": "Paper bags",
+      "url": "/products/striped-paper-counter-bag/",
+      "summary": "A classic flat paper bag with red and white stripes, for sweets, pastries, small gifts and pick-and-mix counters."
+    },
+    {
+      "slug": "flat-bottom-kraft-bag",
+      "name": "Flat-bottom kraft grocery bag",
+      "sku": "PB-FB300",
+      "pack": "Pack of 250",
+      "price": 29.95,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 29.95
+        },
+        {
+          "min": 4,
+          "price": 27.25
+        },
+        {
+          "min": 12,
+          "price": 24.5
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/flat-bottom-kraft-bag-400.webp",
+        "large": "/assets/img/products/flat-bottom-kraft-bag-800.webp",
+        "alt": "A brown kraft paper bag with a square base standing open, with folded flat bags beside it"
+      },
+      "category": "paper-bags",
+      "categoryName": "Paper bags",
+      "url": "/products/flat-bottom-kraft-bag/",
+      "summary": "A brown kraft bag with a square base that stands open on the counter. Made for loose groceries, coffee beans and refill shops."
+    },
+    {
+      "slug": "window-bakery-bag",
+      "name": "Window-front bakery bag",
+      "sku": "PB-WB230",
+      "pack": "Pack of 1,000",
+      "price": 42,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 42
+        },
+        {
+          "min": 5,
+          "price": 38.5
+        },
+        {
+          "min": 10,
+          "price": 34.95
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/window-bakery-bag-400.webp",
+        "large": "/assets/img/products/window-bakery-bag-800.webp",
+        "alt": "A brown kraft bakery bag with a clear front window, holding two cookies, beside a flat empty bag"
+      },
+      "category": "paper-bags",
+      "categoryName": "Paper bags",
+      "url": "/products/window-bakery-bag/",
+      "summary": "A kraft bakery bag with a clear plant-based film window, so customers can see the bread, cookies or pastries inside."
+    },
+    {
+      "slug": "white-sulphite-counter-bag",
+      "name": "White sulphite counter bag 254 × 254 mm",
+      "sku": "PB-WS254",
+      "pack": "Pack of 1,000",
+      "price": 22.5,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 22.5
+        },
+        {
+          "min": 5,
+          "price": 20.25
+        },
+        {
+          "min": 10,
+          "price": 18.25
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/white-sulphite-counter-bag-400.webp",
+        "large": "/assets/img/products/white-sulphite-counter-bag-800.webp",
+        "alt": "A neat stack of plain white flat paper bags, the top one slightly open"
+      },
+      "category": "paper-bags",
+      "categoryName": "Paper bags",
+      "url": "/products/white-sulphite-counter-bag/",
+      "summary": "A plain white flat paper bag for chemists, gift shops, bakeries and hardware counters. Clean, light and good to write on."
+    },
+    {
+      "slug": "twisted-handle-kraft-carrier",
+      "name": "Twisted-handle kraft carrier, medium",
+      "sku": "CB-TH320",
+      "pack": "Pack of 250",
+      "price": 62.5,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 62.5
+        },
+        {
+          "min": 4,
+          "price": 57.5
+        },
+        {
+          "min": 12,
+          "price": 52
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/twisted-handle-kraft-carrier-400.webp",
+        "large": "/assets/img/products/twisted-handle-kraft-carrier-800.webp",
+        "alt": "A brown kraft paper carrier bag with twisted paper handles, standing upright"
+      },
+      "category": "carrier-bags",
+      "categoryName": "Carrier bags",
+      "url": "/products/twisted-handle-kraft-carrier/",
+      "summary": "A sturdy brown paper carrier with twisted paper handles. A good all-rounder for boutiques, gift shops and takeaway counters."
+    },
+    {
+      "slug": "flat-handle-white-carrier",
+      "name": "Flat-handle white paper carrier",
+      "sku": "CB-FH260",
+      "pack": "Pack of 250",
+      "price": 54,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 54
+        },
+        {
+          "min": 4,
+          "price": 49.5
+        },
+        {
+          "min": 12,
+          "price": 44.95
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/flat-handle-white-carrier-400.webp",
+        "large": "/assets/img/products/flat-handle-white-carrier-800.webp",
+        "alt": "A plain white paper carrier bag with flat paper handles, standing open"
+      },
+      "category": "carrier-bags",
+      "categoryName": "Carrier bags",
+      "url": "/products/flat-handle-white-carrier/",
+      "summary": "A clean white paper carrier with flat paper handles. Ideal for takeaways, pharmacies and shops that want a bright, simple bag."
+    },
+    {
+      "slug": "natural-cotton-tote",
+      "name": "Natural cotton tote bag",
+      "sku": "CB-CT380",
+      "pack": "Pack of 50",
+      "price": 74.5,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 74.5
+        },
+        {
+          "min": 4,
+          "price": 69
+        },
+        {
+          "min": 12,
+          "price": 62.5
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/natural-cotton-tote-400.webp",
+        "large": "/assets/img/products/natural-cotton-tote-800.webp",
+        "alt": "A plain cream cotton tote bag laid flat with its long handles spread out"
+      },
+      "category": "carrier-bags",
+      "categoryName": "Carrier bags",
+      "url": "/products/natural-cotton-tote/",
+      "summary": "A plain undyed cotton tote with long handles. Sold to customers as a reusable bag, given at events, or printed with your design."
+    },
+    {
+      "slug": "reusable-woven-carrier",
+      "name": "Reusable woven carrier, navy",
+      "sku": "CB-RW400",
+      "pack": "Pack of 50",
+      "price": 39.5,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 39.5
+        },
+        {
+          "min": 4,
+          "price": 36.25
+        },
+        {
+          "min": 12,
+          "price": 32.5
+        }
+      ],
+      "stock": "low-stock",
+      "image": {
+        "small": "/assets/img/products/reusable-woven-carrier-400.webp",
+        "large": "/assets/img/products/reusable-woven-carrier-800.webp",
+        "alt": "A plain navy woven shopping bag with stitched handles, standing upright and open"
+      },
+      "category": "carrier-bags",
+      "categoryName": "Carrier bags",
+      "url": "/products/reusable-woven-carrier/",
+      "summary": "A strong navy woven carrier with a stiffened base, built for heavy shopping and hundreds of trips. Wipes clean."
+    },
+    {
+      "slug": "kraft-food-box-lidded",
+      "name": "Kraft food box with fold-lock lid",
+      "sku": "FP-KB800",
+      "pack": "Pack of 150",
+      "price": 33,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 33
+        },
+        {
+          "min": 4,
+          "price": 30.25
+        },
+        {
+          "min": 12,
+          "price": 27.5
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/kraft-food-box-lidded-400.webp",
+        "large": "/assets/img/products/kraft-food-box-lidded-800.webp",
+        "alt": "A brown kraft takeaway box with its interlocking lid closed, beside one open and empty"
+      },
+      "category": "food-packaging",
+      "categoryName": "Food packaging",
+      "url": "/products/kraft-food-box-lidded/",
+      "summary": "An 800 ml kraft takeaway box with a lid that locks shut. Holds noodles, salads, curries and hot mains without leaking."
+    },
+    {
+      "slug": "double-wall-hot-cup-12oz",
+      "name": "Double-wall hot cup 12 oz",
+      "sku": "FP-HC12",
+      "pack": "Box of 500",
+      "price": 46.5,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 46.5
+        },
+        {
+          "min": 4,
+          "price": 42.75
+        },
+        {
+          "min": 12,
+          "price": 38.95
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/double-wall-hot-cup-12oz-400.webp",
+        "large": "/assets/img/products/double-wall-hot-cup-12oz-800.webp",
+        "alt": "Three plain white double-wall paper coffee cups, two stacked and one standing upright"
+      },
+      "category": "food-packaging",
+      "categoryName": "Food packaging",
+      "url": "/products/double-wall-hot-cup-12oz/",
+      "summary": "A 12 oz paper cup with an insulating outer wall, so hot drinks need no sleeve. Fits standard 90 mm sip lids."
+    },
+    {
+      "slug": "bagasse-clamshell-9in",
+      "name": "Bagasse clamshell 9 inch",
+      "sku": "FP-BC9",
+      "pack": "Box of 200",
+      "price": 38,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 38
+        },
+        {
+          "min": 4,
+          "price": 34.75
+        },
+        {
+          "min": 12,
+          "price": 31.5
+        }
+      ],
+      "stock": "low-stock",
+      "image": {
+        "small": "/assets/img/products/bagasse-clamshell-9in-400.webp",
+        "large": "/assets/img/products/bagasse-clamshell-9in-800.webp",
+        "alt": "An off-white moulded fibre clamshell takeaway box with its lid open, beside a closed one"
+      },
+      "category": "food-packaging",
+      "categoryName": "Food packaging",
+      "url": "/products/bagasse-clamshell-9in/",
+      "summary": "A hinged takeaway box moulded from sugar cane fibre. Grease-resistant, microwave-safe and industrially compostable."
+    },
+    {
+      "slug": "greaseproof-paper-sheets",
+      "name": "Greaseproof paper sheets 250 × 350 mm",
+      "sku": "FP-GP250",
+      "pack": "Pack of 1,000",
+      "price": 16.5,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 16.5
+        },
+        {
+          "min": 5,
+          "price": 14.95
+        },
+        {
+          "min": 10,
+          "price": 13.5
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/greaseproof-paper-sheets-400.webp",
+        "large": "/assets/img/products/greaseproof-paper-sheets-800.webp",
+        "alt": "A neat stack of white greaseproof paper sheets with the top sheet folded back at one corner"
+      },
+      "category": "food-packaging",
+      "categoryName": "Food packaging",
+      "url": "/products/greaseproof-paper-sheets/",
+      "summary": "Pre-cut white greaseproof sheets for wrapping sandwiches, lining baskets and trays, and separating baked goods."
+    },
+    {
+      "slug": "magnetic-gift-box-black",
+      "name": "Magnetic-closure gift box, matt black",
+      "sku": "GB-MG250",
+      "pack": "Pack of 10",
+      "price": 39.5,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 39.5
+        },
+        {
+          "min": 4,
+          "price": 36
+        },
+        {
+          "min": 12,
+          "price": 32.5
+        }
+      ],
+      "stock": "made-to-order",
+      "image": {
+        "small": "/assets/img/products/magnetic-gift-box-black-400.webp",
+        "large": "/assets/img/products/magnetic-gift-box-black-800.webp",
+        "alt": "A matt black rigid gift box with its hinged lid half open, showing a plain black interior"
+      },
+      "category": "gift-boxes",
+      "categoryName": "Gift & presentation boxes",
+      "url": "/products/magnetic-gift-box-black/",
+      "summary": "A rigid matt black box with a hinged lid that closes with hidden magnets. For candles, skincare sets, hampers and premium gifts."
+    },
+    {
+      "slug": "rigid-two-piece-box-white",
+      "name": "Rigid two-piece box with lid, white",
+      "sku": "GB-RT150",
+      "pack": "Pack of 20",
+      "price": 36,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 36
+        },
+        {
+          "min": 4,
+          "price": 32.75
+        },
+        {
+          "min": 12,
+          "price": 29.5
+        }
+      ],
+      "stock": "made-to-order",
+      "image": {
+        "small": "/assets/img/products/rigid-two-piece-box-white-400.webp",
+        "large": "/assets/img/products/rigid-two-piece-box-white-800.webp",
+        "alt": "A white square rigid box with its lid lifted and resting against the base"
+      },
+      "category": "gift-boxes",
+      "categoryName": "Gift & presentation boxes",
+      "url": "/products/rigid-two-piece-box-white/",
+      "summary": "A white rigid box with a separate lift-off lid. A clean, simple presentation box for jewellery, accessories and small gifts."
+    },
+    {
+      "slug": "velvet-ring-box",
+      "name": "Velvet-lined ring box",
+      "sku": "GB-VR50",
+      "pack": "Pack of 24",
+      "price": 27.5,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 27.5
+        },
+        {
+          "min": 4,
+          "price": 25
+        },
+        {
+          "min": 12,
+          "price": 22.5
+        }
+      ],
+      "stock": "low-stock",
+      "image": {
+        "small": "/assets/img/products/velvet-ring-box-400.webp",
+        "large": "/assets/img/products/velvet-ring-box-800.webp",
+        "alt": "A small dark grey velvet ring box with the lid open and an empty slotted ring pad"
+      },
+      "category": "gift-boxes",
+      "categoryName": "Gift & presentation boxes",
+      "url": "/products/velvet-ring-box/",
+      "summary": "A small hinged box lined with soft velvet and a slotted ring pad. For jewellers, craft fairs and handmade ring makers."
+    },
+    {
+      "slug": "kraft-pillow-box",
+      "name": "Kraft pillow box",
+      "sku": "GB-KP120",
+      "pack": "Pack of 100",
+      "price": 19.5,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 19.5
+        },
+        {
+          "min": 5,
+          "price": 17.75
+        },
+        {
+          "min": 10,
+          "price": 15.95
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/kraft-pillow-box-400.webp",
+        "large": "/assets/img/products/kraft-pillow-box-800.webp",
+        "alt": "Three small curved brown kraft pillow boxes, one tied with plain twine"
+      },
+      "category": "gift-boxes",
+      "categoryName": "Gift & presentation boxes",
+      "url": "/products/kraft-pillow-box/",
+      "summary": "A curved kraft box that folds flat and pops into shape. For soaps, favours, samples and small handmade gifts."
+    },
+    {
+      "slug": "thermal-shipping-labels",
+      "name": "Thermal shipping labels 100 × 150 mm",
+      "sku": "LT-TH100",
+      "pack": "Pack of 4 rolls",
+      "price": 36,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 36
+        },
+        {
+          "min": 5,
+          "price": 32.5
+        },
+        {
+          "min": 10,
+          "price": 29.5
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/thermal-shipping-labels-400.webp",
+        "large": "/assets/img/products/thermal-shipping-labels-800.webp",
+        "alt": "Two rolls of blank white thermal labels, one with a few labels unrolled"
+      },
+      "category": "labels-and-tags",
+      "categoryName": "Labels & tags",
+      "url": "/products/thermal-shipping-labels/",
+      "summary": "Direct thermal labels in the standard 100 × 150 mm courier size. No ink or ribbon needed; four rolls of 500 labels."
+    },
+    {
+      "slug": "kraft-swing-tags",
+      "name": "Kraft swing tags with string",
+      "sku": "LT-KS70",
+      "pack": "Pack of 500",
+      "price": 14.5,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 14.5
+        },
+        {
+          "min": 5,
+          "price": 12.95
+        },
+        {
+          "min": 10,
+          "price": 11.5
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/kraft-swing-tags-400.webp",
+        "large": "/assets/img/products/kraft-swing-tags-800.webp",
+        "alt": "A loose pile of blank brown kraft swing tags with natural cotton strings"
+      },
+      "category": "labels-and-tags",
+      "categoryName": "Labels & tags",
+      "url": "/products/kraft-swing-tags/",
+      "summary": "Thick kraft tags with a reinforced hole and pre-cut cotton string. For prices, care details and handwritten gift notes."
+    },
+    {
+      "slug": "round-kraft-seal-stickers",
+      "name": "Round kraft seal stickers 38 mm",
+      "sku": "LT-RS38",
+      "pack": "Roll of 500",
+      "price": 8.95,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 8.95
+        },
+        {
+          "min": 5,
+          "price": 7.95
+        },
+        {
+          "min": 10,
+          "price": 6.95
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/round-kraft-seal-stickers-400.webp",
+        "large": "/assets/img/products/round-kraft-seal-stickers-800.webp",
+        "alt": "A roll of blank round brown kraft stickers with a few peeled off and placed beside it"
+      },
+      "category": "labels-and-tags",
+      "categoryName": "Labels & tags",
+      "url": "/products/round-kraft-seal-stickers/",
+      "summary": "Plain round kraft paper stickers for sealing tissue, paper bags and pillow boxes. Write on them, stamp them or leave them plain."
+    },
+    {
+      "slug": "coloured-tie-on-tags",
+      "name": "Coloured tie-on tags, assorted",
+      "sku": "LT-CT120",
+      "pack": "Box of 1,000",
+      "price": 24,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 24
+        },
+        {
+          "min": 5,
+          "price": 21.5
+        },
+        {
+          "min": 10,
+          "price": 19.25
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/coloured-tie-on-tags-400.webp",
+        "large": "/assets/img/products/coloured-tie-on-tags-800.webp",
+        "alt": "Blank tie-on tags in buff, red, blue, green and yellow fanned out with their strings"
+      },
+      "category": "labels-and-tags",
+      "categoryName": "Labels & tags",
+      "url": "/products/coloured-tie-on-tags/",
+      "summary": "Strung manila-style tags in five colours, for stock rooms, workshops, sorting and coding. Pre-strung and ready to tie."
+    },
+    {
+      "slug": "kraft-paper-tape",
+      "name": "Kraft paper packing tape 48 mm × 50 m",
+      "sku": "TP-KT48",
+      "pack": "Pack of 6 rolls",
+      "price": 12.9,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 12.9
+        },
+        {
+          "min": 5,
+          "price": 11.75
+        },
+        {
+          "min": 10,
+          "price": 10.5
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/kraft-paper-tape-400.webp",
+        "large": "/assets/img/products/kraft-paper-tape-800.webp",
+        "alt": "Three rolls of brown kraft paper tape, one partly unwound across the surface"
+      },
+      "category": "tape-and-protective",
+      "categoryName": "Tape, wrap & void fill",
+      "url": "/products/kraft-paper-tape/",
+      "summary": "Self-adhesive brown paper tape that seals cartons and recycles with them. Works in a standard tape gun."
+    },
+    {
+      "slug": "bubble-wrap-roll",
+      "name": "Bubble wrap roll 750 mm × 100 m",
+      "sku": "TP-BW750",
+      "pack": "Single roll",
+      "price": 21.5,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 21.5
+        },
+        {
+          "min": 4,
+          "price": 19.5
+        },
+        {
+          "min": 12,
+          "price": 17.5
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/bubble-wrap-roll-400.webp",
+        "large": "/assets/img/products/bubble-wrap-roll-800.webp",
+        "alt": "A large roll of clear bubble wrap standing on end, with a sheet partly unrolled"
+      },
+      "category": "tape-and-protective",
+      "categoryName": "Tape, wrap & void fill",
+      "url": "/products/bubble-wrap-roll/",
+      "summary": "A full-width roll of small-bubble wrap for glass, ceramics and electronics. Made with recycled polythene."
+    },
+    {
+      "slug": "pallet-stretch-film",
+      "name": "Pallet stretch film 400 mm × 250 m",
+      "sku": "TP-SF400",
+      "pack": "Pack of 6 rolls",
+      "price": 39,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 39
+        },
+        {
+          "min": 4,
+          "price": 35.75
+        },
+        {
+          "min": 12,
+          "price": 32.5
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/pallet-stretch-film-400.webp",
+        "large": "/assets/img/products/pallet-stretch-film-800.webp",
+        "alt": "Two rolls of clear stretch film, one lying on its side with a length pulled out"
+      },
+      "category": "tape-and-protective",
+      "categoryName": "Tape, wrap & void fill",
+      "url": "/products/pallet-stretch-film/",
+      "summary": "Hand-wrap stretch film for securing cartons on a pallet. Clear, 17 µm, with recycled content."
+    },
+    {
+      "slug": "honeycomb-kraft-wrap",
+      "name": "Honeycomb kraft wrap 380 mm × 100 m",
+      "sku": "TP-HW380",
+      "pack": "Single roll",
+      "price": 34.5,
+      "tiers": [
+        {
+          "min": 1,
+          "price": 34.5
+        },
+        {
+          "min": 4,
+          "price": 31.5
+        },
+        {
+          "min": 12,
+          "price": 28.5
+        }
+      ],
+      "stock": "in-stock",
+      "image": {
+        "small": "/assets/img/products/honeycomb-kraft-wrap-400.webp",
+        "large": "/assets/img/products/honeycomb-kraft-wrap-800.webp",
+        "alt": "A roll of brown kraft paper with a stretched length open in a honeycomb pattern"
+      },
+      "category": "tape-and-protective",
+      "categoryName": "Tape, wrap & void fill",
+      "url": "/products/honeycomb-kraft-wrap/",
+      "summary": "Die-cut kraft paper that stretches into a cushioning honeycomb. A paper alternative to bubble wrap for fragile items."
+    }
+  ],
+  "categories": [
+    {
+      "slug": "boxes-and-cartons",
+      "name": "Boxes & cartons",
+      "url": "/shop/boxes-and-cartons/",
+      "summary": "Single-wall and double-wall cartons, crash-lock mailer boxes and archive boxes in packs, priced ex VAT with bulk discounts and next-day dispatch."
+    },
+    {
+      "slug": "mailing-bags-and-envelopes",
+      "name": "Mailing bags & envelopes",
+      "url": "/shop/mailing-bags-and-envelopes/",
+      "summary": "Recycled mailing bags, padded kraft mailers, honeycomb paper mailers and board-backed envelopes in trade packs with peel-and-seal closures."
+    },
+    {
+      "slug": "paper-bags",
+      "name": "Paper bags",
+      "url": "/shop/paper-bags/",
+      "summary": "Striped and white sulphite counter bags, flat-bottom kraft grocery bags and window-front bakery bags in trade packs, priced ex VAT."
+    },
+    {
+      "slug": "carrier-bags",
+      "name": "Carrier bags",
+      "url": "/shop/carrier-bags/",
+      "summary": "Twisted-handle and flat-handle paper carriers, natural cotton totes and reusable woven carriers in trade packs with bulk pricing."
+    },
+    {
+      "slug": "food-packaging",
+      "name": "Food packaging",
+      "url": "/shop/food-packaging/",
+      "summary": "Kraft food boxes, double-wall hot cups, bagasse clamshells and greaseproof sheets for cafés and takeaways, in trade packs with bulk discounts."
+    },
+    {
+      "slug": "gift-boxes",
+      "name": "Gift & presentation boxes",
+      "url": "/shop/gift-boxes/",
+      "summary": "Magnetic gift boxes, rigid two-piece boxes, velvet-lined ring boxes and kraft pillow boxes for makers and gift shops, priced per pack ex VAT."
+    },
+    {
+      "slug": "labels-and-tags",
+      "name": "Labels & tags",
+      "url": "/shop/labels-and-tags/",
+      "summary": "Thermal shipping labels, kraft swing tags, kraft seal stickers and coloured tie-on tags in rolls and packs, with bulk discounts ex VAT."
+    },
+    {
+      "slug": "tape-and-protective",
+      "name": "Tape, wrap & void fill",
+      "url": "/shop/tape-and-protective/",
+      "summary": "Kraft paper tape, bubble wrap, honeycomb kraft wrap and pallet stretch film for packing benches and warehouses, priced ex VAT."
+    }
+  ],
+  "pages": [
+    {
+      "kind": "Page",
+      "title": "About us",
+      "url": "/about/",
+      "summary": "Boxes is a family-run packaging supplier in Northampton, founded in 2009. A team of 24 selling plain, practical packaging in packs to small businesses."
+    },
+    {
+      "kind": "Page",
+      "title": "Accessibility statement",
+      "url": "/accessibility/",
+      "summary": "How the Boxes website aims to meet WCAG 2.2 AA, how we test it, known limitations and how to contact us about accessibility."
+    },
+    {
+      "kind": "Page",
+      "title": "Bespoke boxes",
+      "url": "/bespoke-boxes/",
+      "summary": "Boxes made to your dimensions from 250 units: board grades explained, a free first sample in 5 working days and production within 15 working days."
+    },
+    {
+      "kind": "Collection",
+      "title": "New arrivals",
+      "url": "/collections/new-arrivals/",
+      "summary": "New packaging at Boxes: honeycomb mailers, kraft paper tape, recycled mailing bags, bagasse clamshells and more, priced per pack ex VAT."
+    },
+    {
+      "kind": "Collection",
+      "title": "Best sellers",
+      "url": "/collections/best-sellers/",
+      "summary": "Our most reordered packaging: postal cartons, crash-lock mailers, padded mailers, thermal labels, tape and bubble wrap, with bulk discounts ex VAT."
+    },
+    {
+      "kind": "Page",
+      "title": "Contact us",
+      "url": "/contact/",
+      "summary": "Call 01632 960 418 or email hello@boxes.junaid.guru, Monday to Friday 8am to 5pm. Boxes, Unit 4, Brookfield Trade Park, Northampton NN4 0ZZ."
+    },
+    {
+      "kind": "Page",
+      "title": "Custom printing",
+      "url": "/custom-printing/",
+      "summary": "Custom-printed paper bags, carriers, mailer boxes, tape, labels and totes, from 100 units. Artwork guidance, lead times and a free digital proof."
+    },
+    {
+      "kind": "Page",
+      "title": "Delivery & returns",
+      "url": "/delivery/",
+      "summary": "Same-day dispatch before 2pm, £7.95 ex VAT delivery, free over £150 ex VAT. Next working day to mainland UK. Returns on unopened packs within 30 days."
+    },
+    {
+      "kind": "Page",
+      "title": "Journal",
+      "url": "/journal/",
+      "summary": "Practical packaging guides for small businesses: box sizes, plastic-free mailing, food packaging rules for cafés and packing bench set-up."
+    },
+    {
+      "kind": "Journal",
+      "title": "How to choose the right box size (and stop paying to post air)",
+      "url": "/journal/choosing-the-right-box-size/",
+      "summary": "Measure your product, read box sizes correctly, understand volumetric weight and build a short list of box sizes that cuts postage and void fill."
+    },
+    {
+      "kind": "Journal",
+      "title": "Going plastic-free with your mailing: what actually works",
+      "url": "/journal/plastic-free-mailing/",
+      "summary": "What to swap, what to keep and what to tell customers: paper tape, void fill, paper mailers, honeycomb wrap, and what recyclable and compostable mean."
+    },
+    {
+      "kind": "Journal",
+      "title": "Food packaging for cafés: the rules in plain English",
+      "url": "/journal/food-packaging-rules/",
+      "summary": "Food-contact rules, single-use plastic bans, paper cups, compostables, allergen labels and storing packaging: a plain-English guide for cafés and bakeries."
+    },
+    {
+      "kind": "Journal",
+      "title": "Setting up a packing bench that saves you an hour a day",
+      "url": "/journal/packing-bench-setup/",
+      "summary": "Bench height, three working zones, what to keep within reach, pre-folding and batching orders: a practical guide to packing parcels faster."
+    },
+    {
+      "kind": "Page",
+      "title": "Price list",
+      "url": "/price-list/",
+      "summary": "The full Boxes price list: every product with SKU, pack size and bulk discount prices ex VAT. Printable for your purchasing file."
+    },
+    {
+      "kind": "Page",
+      "title": "Privacy notice",
+      "url": "/privacy/",
+      "summary": "How Boxes would collect, use, share and keep personal data for orders, trade accounts and enquiries, and your rights. A demonstration privacy notice."
+    },
+    {
+      "kind": "Page",
+      "title": "Shop all packaging",
+      "url": "/shop/",
+      "summary": "Browse every Boxes range: cartons, mailing bags, paper and carrier bags, food packaging, gift boxes, labels and tape. Trade prices per pack ex VAT."
+    },
+    {
+      "kind": "Page",
+      "title": "Sustainability",
+      "url": "/sustainability/",
+      "summary": "How Boxes chooses materials, publishes recycled content, takes back cardboard and pallets, plans fuller delivery routes and is honest about the limits."
+    },
+    {
+      "kind": "Page",
+      "title": "Terms of sale",
+      "url": "/terms/",
+      "summary": "Example business-to-business terms of sale for Boxes, a fictional packaging supplier: prices, orders, payment, delivery, returns and liability."
+    },
+    {
+      "kind": "Page",
+      "title": "Trade accounts",
+      "url": "/trade-accounts/",
+      "summary": "Apply for a Boxes trade account: 30-day terms subject to approval, a named account manager, bulk discounts and monthly statements."
+    }
+  ]
+}
