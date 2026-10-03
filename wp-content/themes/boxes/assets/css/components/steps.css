@@ -1,0 +1,37 @@
+.steps {
+    counter-reset: step;
+    display: grid;
+    gap: var(--space-4);
+    list-style: none;
+    padding: 0;
+}
+
+.steps__item {
+    counter-increment: step;
+    display: grid;
+    gap: 0 var(--space-3);
+    grid-template-columns: 2.25rem minmax(0, 1fr);
+}
+
+.steps__item::before {
+    align-items: center;
+    background: var(--color-indigo);
+    border-radius: 50%;
+    color: var(--color-white);
+    content: counter(step) / "";
+    display: flex;
+    font-weight: 700;
+    grid-row: span 2;
+    height: 2.25rem;
+    justify-content: center;
+    width: 2.25rem;
+}
+
+.steps__title {
+    align-self: center;
+    font-weight: 700;
+}
+
+.steps__text {
+    grid-column: 2;
+}

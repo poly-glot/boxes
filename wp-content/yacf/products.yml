@@ -1,0 +1,94 @@
+post_types:
+  product:
+    archive: false
+    icon: dashicons-products
+    label: Products
+    rewrite: { slug: products, with_front: false }
+    singular: Product
+    supports: [title, editor, thumbnail]
+
+taxonomies:
+  product_category:
+    hierarchical: true
+    label: Categories
+    post_types: [product]
+    rewrite: { slug: shop, with_front: false }
+    singular: Category
+  collection:
+    hierarchical: false
+    label: Collections
+    post_types: [product]
+    rewrite: { slug: collections, with_front: false }
+    singular: Collection
+
+field_groups:
+  product_details:
+    post_types: [product]
+    title: Product
+    fields:
+      sku:
+        column: { sortable: true }
+        label: SKU
+        searchable: true
+        type: text
+        width: 25
+      pack:
+        column: true
+        label: Pack
+        placeholder: Pack of 25
+        type: text
+        width: 25
+      price:
+        column: { label: Price ex VAT, sortable: true }
+        description: Price per pack in pounds, excluding VAT. The same as the first bulk price.
+        label: Price per pack
+        min: 0
+        step: 0.01
+        type: number
+        width: 25
+      stock:
+        choices: { in-stock: In stock, low-stock: Low stock, made-to-order: Made to order }
+        column: { sortable: true }
+        default: in-stock
+        label: Stock
+        type: select
+        width: 25
+      stock_note:
+        label: Stock note
+        placeholder: 86 packs ready to dispatch
+        type: text
+        width: 50
+      collection_position:
+        description: Order on collection pages and in the home best sellers row, lowest first. Shared by every collection the product is in.
+        label: Position in collections
+        min: 0
+        step: 1
+        type: number
+        width: 50
+      summary:
+        column: true
+        description: One or two sentences under the title, on cards, in search and as the meta description.
+        label: Summary
+        rows: 3
+        searchable: true
+        type: textarea
+      tiers:
+        description: Bulk prices per pack, ex VAT. The first row starts at 1 pack and equals the price per pack.
+        fields:
+          min: { label: From packs, min: 1, step: 1, type: number, width: 50 }
+          price: { label: Price per pack, min: 0, step: 0.01, type: number, width: 50 }
+        label: Bulk discounts
+        type: repeater
+      specification:
+        description: The SKU row is added automatically above these rows.
+        fields:
+          label: { label: Label, type: text, width: 40 }
+          value: { label: Value, type: text, width: 60 }
+        label: Specification
+        type: repeater
+      related:
+        description: Up to three products for "You may also need".
+        label: Related products
+        multiple: true
+        post_types: [product]
+        type: post

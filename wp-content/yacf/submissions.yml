@@ -1,0 +1,118 @@
+post_types:
+  order_request:
+    icon: dashicons-cart
+    label: Order requests
+    public: false
+    rewrite: false
+    show_in_rest: false
+    show_ui: true
+    singular: Order request
+    supports: [title]
+  enquiry:
+    icon: dashicons-email
+    label: Enquiries
+    public: false
+    rewrite: false
+    show_in_rest: false
+    show_ui: true
+    singular: Enquiry
+    supports: [title]
+
+field_groups:
+  order_request_details:
+    post_types: [order_request]
+    title: Order
+    fields:
+      name:
+        label: Name
+        type: text
+        width: 50
+      company:
+        column: true
+        label: Company
+        searchable: true
+        type: text
+        width: 50
+      email:
+        column: true
+        label: Email
+        type: email
+        width: 50
+      phone:
+        label: Phone
+        type: text
+        width: 50
+      postcode:
+        column: true
+        label: Delivery postcode
+        type: text
+        width: 50
+      reference:
+        label: Purchase order reference
+        type: text
+        width: 50
+      notes:
+        label: Notes
+        rows: 4
+        type: textarea
+      lines:
+        description: 'JSON recomputed by the server from product meta: [{"sku","name","qty","unit","total"}].'
+        label: Lines
+        rows: 6
+        type: textarea
+      subtotal:
+        label: Subtotal ex VAT
+        step: 0.01
+        type: number
+        width: 25
+      delivery:
+        label: Delivery ex VAT
+        step: 0.01
+        type: number
+        width: 25
+      vat:
+        label: VAT
+        step: 0.01
+        type: number
+        width: 25
+      total:
+        column: { label: Total inc VAT, sortable: true }
+        label: Total inc VAT
+        step: 0.01
+        type: number
+        width: 25
+  enquiry_details:
+    post_types: [enquiry]
+    title: Enquiry
+    fields:
+      form:
+        choices: { contact: Contact page, trade: Trade account application, printing: Custom printing, bespoke: Bespoke boxes }
+        column: { sortable: true }
+        label: Form
+        type: select
+        width: 50
+      name:
+        label: Name
+        type: text
+        width: 50
+      company:
+        column: true
+        label: Company
+        searchable: true
+        type: text
+        width: 50
+      email:
+        column: true
+        label: Email
+        type: email
+        width: 50
+      phone:
+        label: Phone
+        type: text
+        width: 50
+      fields:
+        description: 'Every other answer, one per line as "Label: value".'
+        label: Answers
+        rows: 10
+        searchable: true
+        type: textarea

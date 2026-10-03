@@ -1,0 +1,100 @@
+.category-menu__toggle {
+    align-items: center;
+    background: var(--color-indigo);
+    border-radius: var(--radius);
+    color: var(--color-white);
+    cursor: pointer;
+    display: flex;
+    font-weight: 500;
+    gap: var(--space-2);
+    justify-content: space-between;
+    list-style: none;
+    min-height: var(--control-height);
+    padding: 0 var(--space-4);
+    transition: background var(--duration) var(--ease);
+    white-space: nowrap;
+}
+
+.category-menu__toggle::-webkit-details-marker {
+    display: none;
+}
+
+.category-menu__toggle:hover {
+    background: var(--color-indigo-hover);
+}
+
+.category-menu__chevron {
+    stroke-width: 2.5;
+    transition: transform var(--duration) var(--ease);
+}
+
+.category-menu__disclosure[open] .category-menu__chevron {
+    transform: rotate(180deg);
+}
+
+.category-menu__panel {
+    background: var(--color-white);
+    border: 1px solid var(--color-line);
+    box-shadow: var(--shadow-panel);
+    left: var(--gutter);
+    padding-block: var(--space-2);
+    position: absolute;
+    right: var(--gutter);
+    top: calc(100% - var(--space-2));
+    z-index: 30;
+}
+
+.category-menu__list {
+    list-style: none;
+    padding: 0;
+}
+
+.category-menu__link {
+    color: var(--color-ink);
+    display: block;
+    padding: var(--space-2) var(--space-4);
+    text-decoration: none;
+}
+
+.category-menu__link:hover {
+    background: var(--color-surface);
+    color: var(--color-indigo);
+}
+
+.category-menu__link[aria-current] {
+    color: var(--color-indigo);
+    font-weight: 700;
+}
+
+.category-menu__all {
+    align-items: center;
+    border-top: 1px solid var(--color-line);
+    display: flex;
+    font-weight: 500;
+    gap: var(--space-1);
+    margin-top: var(--space-2);
+    padding: var(--space-3) var(--space-4) var(--space-2);
+    text-decoration: none;
+}
+
+.category-menu__all:hover {
+    text-decoration: underline;
+}
+
+.category-menu__link:focus-visible,
+.category-menu__all:focus-visible {
+    outline-offset: -3px;
+}
+
+@media (min-width: 64rem) {
+    .category-menu__disclosure {
+        position: relative;
+    }
+
+    .category-menu__panel {
+        left: 0;
+        min-width: 20rem;
+        right: auto;
+        top: calc(100% + var(--space-2));
+    }
+}

@@ -1,0 +1,15 @@
+.devcontainer
+.git
+.github
+.idea
+Dockerfile
+README.md
+design-source/
+dist/
+docs/
+inspiration/
+node_modules/
+static/
+tasks/
+tools/
+wp-content/uploads

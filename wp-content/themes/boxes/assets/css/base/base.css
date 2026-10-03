@@ -1,0 +1,135 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+}
+
+body {
+    background: var(--color-white);
+    color: var(--color-ink);
+    display: flex;
+    flex-direction: column;
+    font-family: var(--font-body);
+    font-size: var(--text-base);
+    line-height: 1.6;
+    margin: 0;
+    min-height: 100vh;
+}
+
+main {
+    flex: 1;
+}
+
+main:focus {
+    outline: none;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    color: var(--color-ink);
+    font-weight: 700;
+    line-height: 1.25;
+    margin: 0;
+    text-wrap: balance;
+}
+
+h1 {
+    font-size: var(--text-2xl);
+}
+
+h2 {
+    font-size: var(--text-lg);
+}
+
+h3 {
+    font-size: var(--text-md);
+}
+
+p,
+ul,
+ol,
+dl,
+dd,
+figure,
+blockquote {
+    margin: 0;
+}
+
+small {
+    font-size: var(--text-sm);
+}
+
+img,
+svg,
+video {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+
+a {
+    color: var(--color-indigo);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.2em;
+}
+
+a:hover {
+    color: var(--color-indigo-hover);
+}
+
+:focus-visible {
+    outline: 3px solid var(--color-action);
+    outline-offset: 2px;
+}
+
+button,
+input,
+select,
+textarea {
+    color: inherit;
+    font: inherit;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+::selection {
+    background: var(--color-indigo);
+    color: var(--color-white);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 1ms !important;
+        scroll-behavior: auto !important;
+        transition-duration: 1ms !important;
+    }
+}
+
+@media print {
+    .skip-link,
+    .site-header,
+    .site-footer,
+    .breadcrumb {
+        display: none;
+    }
+
+    body {
+        font-size: 10pt;
+    }
+}
+
+[hidden] {
+    display: none !important;
+}

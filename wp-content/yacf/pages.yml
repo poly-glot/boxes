@@ -1,0 +1,220 @@
+field_groups:
+  seo:
+    post_types: [page, post]
+    title: Search engines
+    fields:
+      document_title:
+        description: Full browser title. Leave blank for "Title | Boxes".
+        label: Document title
+        type: text
+      meta_description:
+        label: Meta description
+        rows: 2
+        type: textarea
+  page_header:
+    post_types: [page]
+    title: Page header
+    fields:
+      heading:
+        description: Main heading when it differs from the page title.
+        label: Heading
+        type: text
+        width: 50
+      crumb_label:
+        description: Last breadcrumb item when it differs from the heading.
+        label: Breadcrumb label
+        type: text
+        width: 50
+      lead:
+        description: Sentence under the heading. The featured image is the header image.
+        label: Lead
+        type: wysiwyg
+  page_home:
+    post_types: [page]
+    title: Home page sections
+    fields:
+      home_categories_title:
+        label: Categories heading
+        type: text
+        width: 50
+      home_benefits_title:
+        description: Read by screen readers only.
+        label: Benefits heading
+        type: text
+        width: 50
+      home_best_sellers_title:
+        label: Best sellers heading
+        type: text
+        width: 50
+      home_best_sellers_link:
+        label: Best sellers link label
+        type: text
+        width: 50
+      home_journal_title:
+        label: Journal heading
+        type: text
+        width: 50
+      home_journal_link:
+        label: Journal link label
+        type: text
+        width: 50
+  page_lists:
+    post_types: [page]
+    title: Columns, lists and guidance
+    fields:
+      intro_columns:
+        fields:
+          anchor: { label: Heading id, placeholder: who-title, type: text, width: 20 }
+          title: { label: Heading, type: text, width: 30 }
+          text: { label: Text, rows: 4, type: textarea, width: 50 }
+        label: Intro columns
+        type: repeater
+      list_title:
+        label: List heading
+        type: text
+      list_intro:
+        label: List intro
+        rows: 2
+        type: textarea
+      list_items:
+        fields:
+          label: { label: Bold label, type: text, width: 35 }
+          text: { label: Text, type: text, width: 65 }
+        label: List items
+        type: repeater
+      guide_title:
+        label: Guidance heading
+        type: text
+      guide_content:
+        label: Guidance
+        type: wysiwyg
+  page_table:
+    post_types: [page]
+    title: Table
+    fields:
+      table_title:
+        label: Table heading
+        type: text
+        width: 50
+      table_caption:
+        description: Read by screen readers only.
+        label: Table caption
+        type: text
+        width: 50
+      table_intro:
+        label: Text before the table
+        rows: 2
+        type: textarea
+      table_columns:
+        fields:
+          label: { label: Column heading, type: text }
+        label: Column headings
+        type: repeater
+      table_rows:
+        fields:
+          cell_1: { label: Row heading, type: text, width: 34 }
+          cell_2: { label: Second column, type: text, width: 33 }
+          cell_3: { label: Third column, type: text, width: 33 }
+        label: Rows
+        type: repeater
+      table_note:
+        label: Text after the table
+        type: wysiwyg
+  page_highlights:
+    post_types: [page]
+    title: Highlights and steps
+    fields:
+      highlights_title:
+        label: Highlights heading
+        type: text
+      highlights:
+        fields:
+          icon: { choices: { check: Tick, clock: Clock, leaf: Leaf, tag: Price tag, truck: Van, user: Person }, default: check, label: Icon, type: select, width: 20 }
+          title: { label: Bold title, type: text, width: 30 }
+          text: { label: Text, rows: 2, type: textarea, width: 50 }
+        label: Highlights
+        type: repeater
+      steps_title:
+        label: Steps heading
+        type: text
+      steps:
+        fields:
+          title: { label: Bold title, type: text, width: 30 }
+          text: { label: Text, rows: 2, type: textarea, width: 70 }
+        label: Steps
+        type: repeater
+  page_notices:
+    post_types: [page]
+    title: Questions, notices and bands
+    fields:
+      faq_title:
+        label: Questions heading
+        type: text
+      faqs:
+        fields:
+          question: { label: Question, type: text }
+          answer: { label: Answer, type: wysiwyg }
+        label: Questions
+        type: repeater
+      notice_title:
+        label: Notice heading
+        type: text
+      notice_text:
+        label: Notice text
+        type: wysiwyg
+      band_title:
+        label: Closing band heading
+        type: text
+      band_text:
+        label: Closing band text
+        rows: 4
+        type: textarea
+  page_contact:
+    post_types: [page]
+    title: Contact details and map
+    fields:
+      details_title:
+        label: Details heading
+        type: text
+      details:
+        fields:
+          label: { label: Label, type: text, width: 30 }
+          value: { label: Value, type: wysiwyg, width: 70 }
+        label: Details
+        type: repeater
+      location_title:
+        label: Location heading
+        type: text
+      location_text:
+        label: Location text
+        type: wysiwyg
+      map_alt:
+        label: Map description
+        type: text
+        width: 50
+      map_caption:
+        label: Map caption
+        type: text
+        width: 50
+  page_form:
+    post_types: [page]
+    title: Form
+    fields:
+      form_title:
+        label: Form heading
+        type: text
+      form_intro:
+        label: Form intro
+        rows: 2
+        type: textarea
+      form_confirmation:
+        label: Confirmation text
+        rows: 3
+        type: textarea
+  page_legal:
+    post_types: [page]
+    title: Legal page
+    fields:
+      last_updated:
+        label: Last updated
+        type: date

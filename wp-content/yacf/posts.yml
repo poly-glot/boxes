@@ -1,0 +1,20 @@
+field_groups:
+  post_article:
+    post_types: [post]
+    title: Article
+    fields:
+      author_name:
+        column: true
+        label: Author
+        type: text
+        width: 40
+      author_role:
+        label: Author role
+        type: text
+        width: 40
+      reading_minutes:
+        label: Reading time (minutes)
+        min: 1
+        step: 1
+        type: number
+        width: 20

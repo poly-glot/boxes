@@ -1,0 +1,20 @@
+.notice {
+    background: var(--color-surface);
+    border-left: 4px solid var(--color-indigo);
+    display: grid;
+    gap: var(--space-3);
+    justify-items: start;
+    padding: var(--space-4) var(--space-5);
+}
+
+.notice--success {
+    border-left-color: var(--color-success);
+}
+
+.notice__title {
+    font-size: var(--text-md);
+}
+
+.notice:focus {
+    outline: none;
+}

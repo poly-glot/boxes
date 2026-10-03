@@ -1,0 +1,36 @@
+.split {
+    align-items: center;
+    display: grid;
+    gap: var(--space-5) var(--space-7);
+}
+
+.split__image {
+    aspect-ratio: 16 / 9;
+    background: var(--color-surface);
+    object-fit: cover;
+    width: 100%;
+}
+
+.band--surface .split__image {
+    background: var(--color-white);
+}
+
+.split__text {
+    display: grid;
+    gap: var(--space-4);
+    justify-items: start;
+}
+
+.split__title {
+    font-size: var(--text-lg);
+}
+
+@media (min-width: 48rem) {
+    .split {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .split--reverse .split__image {
+        order: 2;
+    }
+}

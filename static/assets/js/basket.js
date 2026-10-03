@@ -136,6 +136,16 @@ const handleDemoForm = (event) => {
     confirmation.focus();
 };
 
+const handleOrderForm = (event) => {
+    const linesField = event.target.querySelector("[data-basket-order-lines]");
+
+    if (!linesField) {
+        return;
+    }
+
+    linesField.value = JSON.stringify(readLines());
+};
+
 const basketParts = (root) => ({
     delivery: root.querySelector("[data-basket-delivery]"),
     deliveryNote: root.querySelector("[data-basket-delivery-note]"),
@@ -279,6 +289,12 @@ const initialiseBasketPage = async (root) => {
 
 document.addEventListener("submit", handleAddToBasket);
 document.addEventListener("submit", handleDemoForm);
+document.addEventListener("submit", handleOrderForm);
+
+if (document.querySelector("[data-basket-order-placed]")) {
+    writeLines([]);
+}
+
 updateBadge(readLines());
 
 const basketRoot = document.querySelector("[data-basket]");

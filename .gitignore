@@ -8,3 +8,4 @@ tasks/
 node_modules/
 wp-content/uploads/
 wp-content/themes/*/assets/css/main.css
+wp-content/seed/catalogue.json

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 156 48" role="img" aria-labelledby="logo-title">
+  <title id="logo-title">Boxes</title>
+  <g fill="none" stroke="#2D1B80" stroke-linejoin="round" stroke-width="2.5">
+    <path d="M24 14 40 22l2-9-16-8Z" fill="#2D1B80" fill-opacity="0.18" />
+    <path d="M8 22 24 30 40 22M8 22 24 14M8 22v16l16 8 16-8V22M24 30v16" />
+  </g>
+  <text x="54" y="36" fill="#2D1B80" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-1">boxes</text>
+</svg>

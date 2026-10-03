@@ -1,0 +1,155 @@
+options_pages:
+  shop_settings:
+    icon: dashicons-store
+    title: Shop settings
+
+field_groups:
+  shop_settings_company:
+    options_pages: [shop_settings]
+    title: Company details
+    fields:
+      company_name:
+        label: Trading name
+        type: text
+        width: 25
+      legal_name:
+        label: Legal name
+        type: text
+        width: 25
+      company_number:
+        label: Company number
+        type: text
+        width: 25
+      vat_number:
+        label: VAT number
+        type: text
+        width: 25
+      address:
+        description: One line per row, without the legal name.
+        label: Address
+        rows: 3
+        type: textarea
+        width: 50
+      hours:
+        label: Opening hours
+        type: text
+        width: 50
+      phone:
+        label: Phone (display)
+        type: text
+        width: 25
+      phone_href:
+        label: Phone (tel link)
+        placeholder: tel:+441632960418
+        type: text
+        width: 25
+      email:
+        label: General email
+        type: email
+        width: 25
+      orders_email:
+        label: Orders email
+        type: email
+        width: 25
+  shop_settings_delivery:
+    options_pages: [shop_settings]
+    title: Delivery and VAT
+    fields:
+      delivery_charge:
+        label: Standard delivery (£ ex VAT)
+        min: 0
+        step: 0.01
+        type: number
+        width: 25
+      delivery_free_over:
+        label: Free delivery over (£ ex VAT)
+        min: 0
+        step: 0.01
+        type: number
+        width: 25
+      vat_rate:
+        label: VAT rate (%)
+        min: 0
+        step: 0.1
+        type: number
+        width: 25
+      delivery_cutoff:
+        label: Dispatch cut-off sentence
+        type: text
+      delivery_regions:
+        label: Delivery times sentence
+        type: text
+      product_delivery_text:
+        description: Delivery and returns tab on every product page.
+        label: Product delivery tab
+        type: wysiwyg
+      product_made_to_order_text:
+        description: Added to the delivery tab on made-to-order products.
+        label: Made-to-order paragraph
+        rows: 2
+        type: textarea
+  shop_settings_home:
+    options_pages: [shop_settings]
+    title: Home page
+    fields:
+      hero_slides:
+        fields:
+          image: { label: Image, type: image, width: 20 }
+          headline: { label: Headline, type: text, width: 40 }
+          lead: { label: Lead, rows: 2, type: textarea, width: 40 }
+          button_label: { label: Button label, type: text, width: 50 }
+          button_url: { label: Button link, placeholder: /shop/, type: text, width: 50 }
+        label: Hero slides
+        type: repeater
+      promo_tiles:
+        fields:
+          image: { label: Image, type: image, width: 20 }
+          title: { label: Title, type: text, width: 30 }
+          line: { label: Line, type: text, width: 30 }
+          url: { label: Link, placeholder: /collections/new-arrivals/, type: text, width: 20 }
+        label: Promo tiles
+        type: repeater
+      benefits:
+        fields:
+          icon: { choices: { check: Tick, clock: Clock, leaf: Leaf, tag: Price tag, truck: Van, user: Person }, label: Icon, type: select, width: 20 }
+          title: { label: Title, type: text, width: 30 }
+          line: { label: Line, type: text, width: 50 }
+        label: Benefits strip
+        type: repeater
+      teaser_image:
+        label: Sustainability teaser image
+        type: image
+        width: 25
+      teaser_heading:
+        label: Sustainability teaser heading
+        type: text
+        width: 75
+      teaser_text:
+        label: Sustainability teaser text
+        rows: 4
+        type: textarea
+      teaser_link_label:
+        label: Sustainability teaser link label
+        type: text
+        width: 50
+      teaser_link_url:
+        label: Sustainability teaser link
+        placeholder: /sustainability/
+        type: text
+        width: 50
+  shop_settings_footer:
+    options_pages: [shop_settings]
+    title: Footer, forms and articles
+    fields:
+      footer_notice:
+        label: Fictional-company notice
+        rows: 3
+        type: textarea
+      form_note:
+        label: Note under every form
+        rows: 2
+        type: textarea
+      article_note:
+        label: Note at the end of every journal article
+        rows: 2
+        type: textarea
